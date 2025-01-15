@@ -1,34 +1,34 @@
 
-Nome do host:                              DESKTOP-GESTOR
+Nome do host:                              TESTE
 Nome do sistema operacional:               Microsoft Windows 10 Pro
-VersÆo do sistema operacional:             10.0.19045 N/A compila‡Æo 19045
+Versï¿½o do sistema operacional:             10.0.19045 N/A compilaï¿½ï¿½o 19045
 Fabricante do sistema operacional:         Microsoft Corporation
-Configura‡Æo do SO:                        Esta‡Æo de trabalho aut“noma
-Tipo de compila‡Æo do sistema operacional: Multiprocessor Free
-Propriet rio registrado:                   ATIVA
-Organiza‡Æo registrada:                    
-Identifica‡Æo do produto:                  00330-80116-78788-AA861
-Data da instala‡Æo original:               01/06/2021, 22:46:44
-Tempo de Inicializa‡Æo do Sistema:         14/05/2024, 15:18:38
+Configuraï¿½ï¿½o do SO:                        Estaï¿½ï¿½o de trabalho autï¿½noma
+Tipo de compilaï¿½ï¿½o do sistema operacional: Multiprocessor Free
+Proprietï¿½rio registrado:                   ATIVA
+Organizaï¿½ï¿½o registrada:                    
+Identificaï¿½ï¿½o do produto:                  00330-80116-78788-AA861
+Data da instalaï¿½ï¿½o original:               01/06/2021, 22:46:44
+Tempo de Inicializaï¿½ï¿½o do Sistema:         14/05/2024, 15:18:38
 Fabricante do sistema:                     BIOSTAR Group
 Modelo do sistema:                         H410MH
 Tipo de sistema:                           x64-based PC
 Processador(es):                           1 processador(es) instalado(s).
                                            [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~3600 Mhz
-VersÆo do BIOS:                            American Megatrends Inc. 5.17, 17/12/2020
+Versï¿½o do BIOS:                            American Megatrends Inc. 5.17, 17/12/2020
 Pasta do Windows:                          C:\Windows
 Pasta do sistema:                          C:\Windows\system32
 Inicializar dispositivo:                   \Device\HarddiskVolume1
-Localidade do sistema:                     pt-br;Portuguˆs (Brasil)
-Localidade de entrada:                     pt-br;Portuguˆs (Brasil)
-Fuso hor rio:                              (UTC-03:00) Bras¡lia
-Mem¢ria f¡sica total:                      8.130 MB
-Mem¢ria f¡sica dispon¡vel:                 1.085 MB
-Mem¢ria Virtual: Tamanho M ximo:           15.554 MB
-Mem¢ria Virtual: Dispon¡vel:               5.799 MB
-Mem¢ria Virtual: Em Uso:                   9.755 MB
-Local(is) de arquivo de pagina‡Æo:         C:\pagefile.sys
-Dom¡nio:                                   ATIVA
+Localidade do sistema:                     pt-br;Portuguï¿½s (Brasil)
+Localidade de entrada:                     pt-br;Portuguï¿½s (Brasil)
+Fuso horï¿½rio:                              (UTC-03:00) Brasï¿½lia
+Memï¿½ria fï¿½sica total:                      8.130 MB
+Memï¿½ria fï¿½sica disponï¿½vel:                 1.085 MB
+Memï¿½ria Virtual: Tamanho Mï¿½ximo:           15.554 MB
+Memï¿½ria Virtual: Disponï¿½vel:               5.799 MB
+Memï¿½ria Virtual: Em Uso:                   9.755 MB
+Local(is) de arquivo de paginaï¿½ï¿½o:         C:\pagefile.sys
+Domï¿½nio:                                   ATIVA
 Servidor de Logon:                         \\DESKTOP-GESTOR
 Hotfix(es):                                32 hotfix(es) instalado(s).
                                            [01]: KB5034466
@@ -65,25 +65,25 @@ Hotfix(es):                                32 hotfix(es) instalado(s).
                                            [32]: KB5034441
 Placa(s) de Rede:                          3 NIC(s) instalado(s).
                                            [01]: Realtek PCIe GbE Family Controller
-                                                 Nome da conexÆo: Ethernet
+                                                 Nome da conexï¿½o: Ethernet
                                                  DHCP ativado:    Sim
                                                  Servidor DHCP:   192.168.0.254
-                                                 Endere‡o(es) IP
+                                                 Endereï¿½o(es) IP
                                                  [01]: 192.168.0.130
                                                  [02]: fe80::8d3e:51e1:a246:ec94
                                                  [03]: 2804:45e8:565a:7dd1:a13a:9b9a:2863:8ec3
                                                  [04]: 2804:45e8:565a:7dd1:39d7:e8b3:dba5:24f
                                            [02]: Wintun Userspace Tunnel
-                                                 Nome da conexÆo: OpenVPN Wintun
-                                                 Status:          M¡dia desconectada
+                                                 Nome da conexï¿½o: OpenVPN Wintun
+                                                 Status:          Mï¿½dia desconectada
                                            [03]: TAP-Windows Adapter V9
-                                                 Nome da conexÆo: OpenVPN TAP-Windows6
+                                                 Nome da conexï¿½o: OpenVPN TAP-Windows6
                                                  DHCP ativado:    Sim
                                                  Servidor DHCP:   10.100.230.254
-                                                 Endere‡o(es) IP
+                                                 Endereï¿½o(es) IP
                                                  [01]: 10.100.230.120
                                                  [02]: fe80::5c1f:8be9:94a0:f08c
-Requisitos do Hyper-V:                     ExtensÆo de Modo de Monitor VM: Sim
-                                           Virtualiza‡Æo Habilitada no Firmware: Sim
-                                           ConversÆo de Endere‡os de Segundo N¡vel: Sim
-                                           Preven‡Æo de Execu‡Æo de Dados Dispon¡vel: Sim
+Requisitos do Hyper-V:                     Extensï¿½o de Modo de Monitor VM: Sim
+                                           Virtualizaï¿½ï¿½o Habilitada no Firmware: Sim
+                                           Conversï¿½o de Endereï¿½os de Segundo Nï¿½vel: Sim
+                                           Prevenï¿½ï¿½o de Execuï¿½ï¿½o de Dados Disponï¿½vel: Sim
