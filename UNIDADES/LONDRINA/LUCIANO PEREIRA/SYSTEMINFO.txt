@@ -1,0 +1,59 @@
+
+Nome do host:                              GESTOR
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Gerencia
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62953-36353-AAOEM
+Data da instalaá∆o original:               03/04/2023, 09:40:26
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 07:02:18
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3090
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.12.1, 20/03/2023
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.907 MB
+Mem¢ria f°sica dispon°vel:                 1.044 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.099 MB
+Mem¢ria Virtual: Dispon°vel:               4.849 MB
+Mem¢ria Virtual: Em Uso:                   11.250 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\GESTOR
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5034765
+                                           [04]: KB5034225
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.23
+                                                 [02]: fe80::edaa:f02b:38f9:7536
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.74
+                                                 [02]: fe80::b295:8c68:9aac:89d4
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

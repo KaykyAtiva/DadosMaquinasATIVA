@@ -1,0 +1,59 @@
+
+Nome do host:                              ELLEN
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-80000-00000-AA789
+Data da instalaá∆o original:               27/12/2023, 07:30:02
+Tempo de Inicializaá∆o do Sistema:         15/05/2024, 15:55:13
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2808 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 2012, 24/01/2019
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume3
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.225 MB
+Mem¢ria f°sica dispon°vel:                 8.067 MB
+Mem¢ria Virtual: Tamanho M†ximo:           18.657 MB
+Mem¢ria Virtual: Dispon°vel:               10.277 MB
+Mem¢ria Virtual: Em Uso:                   8.380 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ELLEN
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5012170
+                                           [03]: KB5034123
+                                           [04]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.144
+                                                 [02]: fe80::1523:bfdf:bf76:aca4
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.75
+                                                 [02]: fe80::de1f:180d:8be8:924
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

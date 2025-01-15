@@ -1,0 +1,58 @@
+
+Nome do host:                              DESKTOP-G38V367
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-63029-18345-AAOEM
+Data da instalaá∆o original:               07/06/2023, 09:54:59
+Tempo de Inicializaá∆o do Sistema:         21/05/2024, 08:13:09
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.0, 14/12/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 908 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.537 MB
+Mem¢ria Virtual: Dispon°vel:               2.696 MB
+Mem¢ria Virtual: Em Uso:                   11.841 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-G38V367
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5034123
+                                           [03]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [02]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.36
+                                                 [02]: fe80::8269:227f:24bf:5758
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.97
+                                                 [02]: fe80::1d63:4a77:e922:3908
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

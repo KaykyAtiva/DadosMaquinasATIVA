@@ -1,0 +1,79 @@
+
+Nome do host:                              SUPERVISOR
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-50000-00000-AAOEM
+Data da instalaá∆o original:               17/04/2023, 06:09:20
+Tempo de Inicializaá∆o do Sistema:         15/05/2024, 08:40:53
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 270s  
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3300 Mhz
+Vers∆o do BIOS:                            Dell Inc. A09, 22/11/2012
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.066 MB
+Mem¢ria f°sica dispon°vel:                 2.664 MB
+Mem¢ria Virtual: Tamanho M†ximo:           13.698 MB
+Mem¢ria Virtual: Dispon°vel:               2.702 MB
+Mem¢ria Virtual: Em Uso:                   10.996 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\SUPERVISOR
+Hotfix(es):                                21 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5028853
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5012170
+                                           [06]: KB5015684
+                                           [07]: KB5020683
+                                           [08]: KB5026037
+                                           [09]: KB5034763
+                                           [10]: KB5014032
+                                           [11]: KB5016705
+                                           [12]: KB5023794
+                                           [13]: KB5025315
+                                           [14]: KB5026879
+                                           [15]: KB5028318
+                                           [16]: KB5028380
+                                           [17]: KB5029709
+                                           [18]: KB5031539
+                                           [19]: KB5032392
+                                           [20]: KB5032907
+                                           [21]: KB5034224
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Dell Wireless 1506 802.11b/g/n (2.4GHz)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.209
+                                                 [02]: fe80::6377:7803:c58:27c8
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.115
+                                                 [02]: fe80::c585:9c26:dba1:91a8
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

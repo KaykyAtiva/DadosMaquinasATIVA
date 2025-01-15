@@ -1,0 +1,63 @@
+
+Nome do host:                              DESKTOP-LRJ2VNJ
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61518-51475-AAOEM
+Data da instalaá∆o original:               29/04/2024, 22:05:08
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 10:08:32
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex Micro 7010
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.0, 02/10/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 767 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.255 MB
+Mem¢ria Virtual: Dispon°vel:               2.560 MB
+Mem¢ria Virtual: Em Uso:                   11.695 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-LRJ2VNJ
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5027397
+                                           [03]: KB5036212
+                                           [04]: KB5037771
+                                           [05]: KB5037663
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Ethernet Connection (17) I219-LM
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.119
+                                                 [02]: fe80::d8c7:b7c:405e:fa29
+                                           [02]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.21
+                                                 [02]: fe80::bd6f:5295:de83:a8d3
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

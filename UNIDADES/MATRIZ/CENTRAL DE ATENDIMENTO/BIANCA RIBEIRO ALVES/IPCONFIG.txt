@@ -1,0 +1,94 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : SAC11
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : localdomain
+
+Adaptador desconhecido OpenVPN Wintun:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Wintun Userspace Tunnel
+   Endereáo F°sico . . . . . . . . . . . . . . : 
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : localdomain
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Endereáo F°sico . . . . . . . . . . . . . . : D0-94-66-E1-6C-5C
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::5d99:30ff:5b08:a5a0%19(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.81.184(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.252.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 08:04:37
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 18:04:41
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::beee:7bff:fe57:21c9%19
+                                                 192.168.80.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.80.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 214996070
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2C-80-30-90-D0-94-66-E1-6C-5C
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.80.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+   Lista de pesquisa de sufixos DNS espec°ficos da conex∆o:
+                                                 localdomain
+
+Adaptador desconhecido OpenVPN TAP-Windows6:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-FF-55-13-AD-55
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::d4dd:66ce:88ea:4d78%8(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.230.50(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 08:07:19
+   Concess∆o Expira. . . . . . . . . . . . . . : sexta-feira, 16 de maio de 2025 08:07:19
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.100.230.0
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 704708437
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2C-80-30-90-D0-94-66-E1-6C-5C
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Endereáo F°sico . . . . . . . . . . . . . . : F4-3B-D8-B7-CF-82
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : F4-3B-D8-B7-CF-83
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : F6-3B-D8-B7-CF-82
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Conex∆o de Rede Bluetooth:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Endereáo F°sico . . . . . . . . . . . . . . : F4-3B-D8-B7-CF-86
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim

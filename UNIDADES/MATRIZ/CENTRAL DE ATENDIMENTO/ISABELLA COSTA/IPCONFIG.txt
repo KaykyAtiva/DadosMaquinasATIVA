@@ -1,0 +1,58 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-DEV1FKT
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : localdomain
+
+Adaptador desconhecido OpenVPN Wintun:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Wintun Userspace Tunnel
+   Endereáo F°sico . . . . . . . . . . . . . . : 
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : localdomain
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-BE-43-EC-98-F0
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::4a3e:6883:49f8:313b%12(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.80.187(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.252.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 08:33:24
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 16:33:23
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::beee:7bff:fe57:21c9%12
+                                                 192.168.80.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.80.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 100712003
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-B0-EF-5A-00-BE-43-EC-98-F0
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.80.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+   Lista de pesquisa de sufixos DNS espec°ficos da conex∆o:
+                                                 localdomain
+
+Adaptador desconhecido OpenVPN TAP-Windows6:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-FF-B2-81-7A-AC
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::ade1:4f72:31d1:980c%11(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.230.57(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 12:33:05
+   Concess∆o Expira. . . . . . . . . . . . . . : sexta-feira, 16 de maio de 2025 12:33:04
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.100.230.0
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 419495858
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-B0-EF-5A-00-BE-43-EC-98-F0
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado

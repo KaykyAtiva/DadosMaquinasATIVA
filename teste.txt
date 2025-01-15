@@ -1,0 +1,4 @@
+ fez uma pasta onde consta as filiais com nome da cidade onde elas são nessas pastas contem subpastas onde contem os seguintes arquivos .txt ["SYSTEMINFO.txt", "IPCONFIG.txt", "DISK.txt", "MEM.txt", "CPU.txt", "dumpedid.txt", "MOUSE E TECLADO.txt"]
+nesses txts de cada subpastas constam informações sobre a maquina, usando regex ja identifiquei os dados que preciso coletei atraves do codigo abaixo:
+
+agora preciso fazer uma varredura em cada filial e pegar as informações dos txts citados pasta por pasta e incluir em uma tabela excel com uma aba para cada filial os dados coletados pela função regex um abaixo do outro acrescentando um ID para cada inserção em cada unidade

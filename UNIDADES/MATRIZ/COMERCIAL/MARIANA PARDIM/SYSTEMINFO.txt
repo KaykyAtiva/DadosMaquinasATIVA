@@ -1,0 +1,68 @@
+
+Nome do host:                              DESKTOP-FRS3HHN
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00355-61556-41553-AAOEM
+Data da instalaá∆o original:               10/05/2024, 08:08:03
+Tempo de Inicializaá∆o do Sistema:         14/05/2024, 23:50:11
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Latitude 3540
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 186 Stepping 3 GenuineIntel ~1300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.12.0, 08/03/2024
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.069 MB
+Mem¢ria f°sica dispon°vel:                 4.759 MB
+Mem¢ria Virtual: Tamanho M†ximo:           19.013 MB
+Mem¢ria Virtual: Dispon°vel:               4.935 MB
+Mem¢ria Virtual: Em Uso:                   14.078 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-FRS3HHN
+Hotfix(es):                                7 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5031274
+                                           [03]: KB5036212
+                                           [04]: KB5037771
+                                           [05]: KB5028756
+                                           [06]: KB5037020
+                                           [07]: KB5037663
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.138
+                                                 [02]: fe80::e92a:d18c:ffee:6d6a
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.24
+                                                 [02]: fe80::eda6:d827:6c30:fb39
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

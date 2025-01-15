@@ -1,0 +1,89 @@
+
+Nome do host:                              DESKTOP-GESTOR
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   ATIVA
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-80116-78788-AA861
+Data da instalaá∆o original:               01/06/2021, 22:46:44
+Tempo de Inicializaá∆o do Sistema:         14/05/2024, 15:18:38
+Fabricante do sistema:                     BIOSTAR Group
+Modelo do sistema:                         H410MH
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~3600 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 5.17, 17/12/2020
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.130 MB
+Mem¢ria f°sica dispon°vel:                 1.085 MB
+Mem¢ria Virtual: Tamanho M†ximo:           15.554 MB
+Mem¢ria Virtual: Dispon°vel:               5.799 MB
+Mem¢ria Virtual: Em Uso:                   9.755 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\DESKTOP-GESTOR
+Hotfix(es):                                32 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5028853
+                                           [03]: KB5000736
+                                           [04]: KB5003791
+                                           [05]: KB5011048
+                                           [06]: KB5011067
+                                           [07]: KB5012170
+                                           [08]: KB5015684
+                                           [09]: KB5034122
+                                           [10]: KB5006753
+                                           [11]: KB5007273
+                                           [12]: KB5011352
+                                           [13]: KB5011651
+                                           [14]: KB5014032
+                                           [15]: KB5014035
+                                           [16]: KB5014671
+                                           [17]: KB5015895
+                                           [18]: KB5016705
+                                           [19]: KB5018506
+                                           [20]: KB5020372
+                                           [21]: KB5022924
+                                           [22]: KB5023794
+                                           [23]: KB5025315
+                                           [24]: KB5026879
+                                           [25]: KB5028318
+                                           [26]: KB5028380
+                                           [27]: KB5029709
+                                           [28]: KB5031539
+                                           [29]: KB5032392
+                                           [30]: KB5032907
+                                           [31]: KB5005699
+                                           [32]: KB5034441
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.254
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.130
+                                                 [02]: fe80::8d3e:51e1:a246:ec94
+                                                 [03]: 2804:45e8:565a:7dd1:a13a:9b9a:2863:8ec3
+                                                 [04]: 2804:45e8:565a:7dd1:39d7:e8b3:dba5:24f
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.120
+                                                 [02]: fe80::5c1f:8be9:94a0:f08c
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

@@ -1,0 +1,62 @@
+
+Nome do host:                              DESKTOP-R8MAKIH
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-63029-18194-AAOEM
+Data da instalaá∆o original:               22/05/2023, 08:28:37
+Tempo de Inicializaá∆o do Sistema:         10/05/2024, 18:05:51
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 15 3510
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~2419 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.27.0, 16/02/2024
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.927 MB
+Mem¢ria f°sica dispon°vel:                 1.015 MB
+Mem¢ria Virtual: Tamanho M†ximo:           17.655 MB
+Mem¢ria Virtual: Dispon°vel:               4.369 MB
+Mem¢ria Virtual: Em Uso:                   13.286 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-R8MAKIH
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5036620
+                                           [02]: KB5027397
+                                           [03]: KB5036980
+                                           [04]: KB5037663
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.12
+                                                 [02]: fe80::d4fe:c27:5850:976
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: Intel(R) Wireless-AC 9462
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.219
+                                                 [02]: fe80::a2ee:b704:b580:91ac
+                                           [04]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

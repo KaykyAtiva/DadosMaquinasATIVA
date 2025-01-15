@@ -1,0 +1,57 @@
+
+Nome do host:                              COMPRAS01
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61077-71588-AAOEM
+Data da instalaá∆o original:               31/01/2024, 15:29:50
+Tempo de Inicializaá∆o do Sistema:         21/05/2024, 08:19:12
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.17.0, 12/09/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 724 MB
+Mem¢ria Virtual: Tamanho M†ximo:           13.257 MB
+Mem¢ria Virtual: Dispon°vel:               2.950 MB
+Mem¢ria Virtual: Em Uso:                   10.307 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMPRAS01
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5031274
+                                           [03]: KB5033055
+                                           [04]: KB5034204
+                                           [05]: KB5034225
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.91
+                                                 [02]: fe80::676e:e7c7:ea98:4d15
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.99
+                                                 [02]: fe80::31be:4795:6c81:69ad
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

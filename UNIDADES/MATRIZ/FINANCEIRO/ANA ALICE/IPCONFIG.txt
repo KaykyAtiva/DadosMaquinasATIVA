@@ -1,0 +1,83 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : NOTFAT01
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : localdomain
+
+Adaptador desconhecido OpenVPN Wintun:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Wintun Userspace Tunnel
+   Endereáo F°sico . . . . . . . . . . . . . . : 
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : localdomain
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 28-00-AF-A1-82-90
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador desconhecido OpenVPN TAP-Windows6:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-FF-9A-7D-CC-ED
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::cafa:8a12:e4cf:fde3%12(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.230.11(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quarta-feira, 22 de maio de 2024 08:04:23
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 22 de maio de 2025 08:04:23
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.100.230.254
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 704708506
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2D-A8-F9-87-28-00-AF-A1-82-90
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 6C-F6-DA-70-7F-20
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : 6E-F6-DA-70-7F-1F
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : localdomain
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Wi-Fi 6E AX211 160MHz
+   Endereáo F°sico . . . . . . . . . . . . . . : 6C-F6-DA-70-7F-1F
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::4c76:dafa:c6e9:d6de%9(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.80.109(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : fe80::beee:7bff:fe57:21c9%9
+                                                 192.168.80.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 124581594
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2D-A8-F9-87-28-00-AF-A1-82-90
+   Servidores DNS. . . . . . . . . . . . . . . : 8.8.8.8
+                                                 8.8.4.4
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+   Lista de pesquisa de sufixos DNS espec°ficos da conex∆o:
+                                                 localdomain

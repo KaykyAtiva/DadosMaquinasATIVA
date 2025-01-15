@@ -1,0 +1,96 @@
+
+Nome do host:                              ELIANA-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Eliana
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-80214-53560-AA041
+Data da instalaá∆o original:               09/09/2020, 19:06:47
+Tempo de Inicializaá∆o do Sistema:         29/01/2024, 07:42:35
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 11 GenuineIntel ~3600 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0418, 13/09/2018
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume2
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.247 MB
+Mem¢ria f°sica dispon°vel:                 6.591 MB
+Mem¢ria Virtual: Tamanho M†ximo:           25.827 MB
+Mem¢ria Virtual: Dispon°vel:               4.468 MB
+Mem¢ria Virtual: Em Uso:                   21.359 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ELIANA-PC
+Hotfix(es):                                38 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5030841
+                                           [03]: KB4561600
+                                           [04]: KB4562830
+                                           [05]: KB4577266
+                                           [06]: KB4577586
+                                           [07]: KB4580325
+                                           [08]: KB4586864
+                                           [09]: KB4593175
+                                           [10]: KB4598481
+                                           [11]: KB5000736
+                                           [12]: KB5003791
+                                           [13]: KB5011048
+                                           [14]: KB5011067
+                                           [15]: KB5012170
+                                           [16]: KB5015684
+                                           [17]: KB5034122
+                                           [18]: KB5006753
+                                           [19]: KB5007273
+                                           [20]: KB5011352
+                                           [21]: KB5011651
+                                           [22]: KB5014032
+                                           [23]: KB5014035
+                                           [24]: KB5014671
+                                           [25]: KB5015895
+                                           [26]: KB5016705
+                                           [27]: KB5018506
+                                           [28]: KB5020372
+                                           [29]: KB5022924
+                                           [30]: KB5023794
+                                           [31]: KB5025315
+                                           [32]: KB5026879
+                                           [33]: KB5028318
+                                           [34]: KB5029709
+                                           [35]: KB5031539
+                                           [36]: KB5032392
+                                           [37]: KB5032907
+                                           [38]: KB5005699
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.29
+                                                 [02]: fe80::e295:f2db:7f46:eb4c
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.86
+                                                 [02]: fe80::2cfa:cf14:d52a:de39
+                                           [04]: Kaspersky VPN
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

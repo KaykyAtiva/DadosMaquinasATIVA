@@ -1,0 +1,68 @@
+
+Nome do host:                              DESKTOP-P5IBEUJ
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-53637-90065-AAOEM
+Data da instalaá∆o original:               14/02/2023, 10:11:14
+Tempo de Inicializaá∆o do Sistema:         23/05/2024, 08:03:19
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2901 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.3.12, 09/04/2021
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.940 MB
+Mem¢ria f°sica dispon°vel:                 1.054 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.852 MB
+Mem¢ria Virtual: Dispon°vel:               4.715 MB
+Mem¢ria Virtual: Em Uso:                   10.137 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-P5IBEUJ
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5034765
+                                           [04]: KB5034225
+Placa(s) de Rede:                          6 NIC(s) instalado(s).
+                                           [01]: Qualcomm QCA61x4A 802.11ac Wireless Adapter
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.200.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.200.115
+                                                 [02]: fe80::c593:5021:bc87:e7bf
+                                           [03]: Kaspersky VPN
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.52
+                                                 [02]: fe80::9d0c:f2ba:9465:abd6
+                                           [06]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

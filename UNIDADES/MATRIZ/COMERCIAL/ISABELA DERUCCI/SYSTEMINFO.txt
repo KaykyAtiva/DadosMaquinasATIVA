@@ -1,0 +1,59 @@
+
+Nome do host:                              DESKTOP-Q973FJH
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61554-30153-AAOEM
+Data da instalaá∆o original:               08/05/2024, 20:21:05
+Tempo de Inicializaá∆o do Sistema:         08/05/2024, 16:26:08
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex Micro 7010
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.11.0, 19/12/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 397 MB
+Mem¢ria Virtual: Tamanho M†ximo:           11.837 MB
+Mem¢ria Virtual: Dispon°vel:               1.858 MB
+Mem¢ria Virtual: Em Uso:                   9.979 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-Q973FJH
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5027397
+                                           [03]: KB5036212
+                                           [04]: KB5034765
+                                           [05]: KB5034225
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Ethernet Connection (17) I219-LM
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.137
+                                                 [02]: fe80::4c92:e6cb:78d0:635b
+                                           [02]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

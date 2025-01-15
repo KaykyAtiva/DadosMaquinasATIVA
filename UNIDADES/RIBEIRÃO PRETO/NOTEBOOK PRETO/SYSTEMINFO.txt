@@ -1,0 +1,84 @@
+
+Nome do host:                              COMERCIAL03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro for Workstations
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00391-90000-00000-AA763
+Data da instalaá∆o original:               31/07/2021, 17:14:19
+Tempo de Inicializaá∆o do Sistema:         14/05/2024, 15:29:11
+Fabricante do sistema:                     ASUSTeK COMPUTER INC.
+Modelo do sistema:                         Z550MA
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 55 Stepping 8 GenuineIntel ~1827 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. Z550MA.205, 14/07/2015
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume2
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      3.975 MB
+Mem¢ria f°sica dispon°vel:                 965 MB
+Mem¢ria Virtual: Tamanho M†ximo:           5.767 MB
+Mem¢ria Virtual: Dispon°vel:               2.220 MB
+Mem¢ria Virtual: Em Uso:                   3.547 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMERCIAL03-PC
+Hotfix(es):                                30 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5030841
+                                           [03]: KB5000736
+                                           [04]: KB5011048
+                                           [05]: KB5011067
+                                           [06]: KB5012170
+                                           [07]: KB5015684
+                                           [08]: KB5034122
+                                           [09]: KB5006753
+                                           [10]: KB5007273
+                                           [11]: KB5011352
+                                           [12]: KB5011651
+                                           [13]: KB5014032
+                                           [14]: KB5014035
+                                           [15]: KB5014671
+                                           [16]: KB5015895
+                                           [17]: KB5016705
+                                           [18]: KB5018506
+                                           [19]: KB5020372
+                                           [20]: KB5022924
+                                           [21]: KB5023794
+                                           [22]: KB5025315
+                                           [23]: KB5026879
+                                           [24]: KB5028318
+                                           [25]: KB5028380
+                                           [26]: KB5029709
+                                           [27]: KB5031539
+                                           [28]: KB5032392
+                                           [29]: KB5032907
+                                           [30]: KB5005699
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Realtek RTL8723BE Wireless LAN 802.11n PCI-E NIC
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.148
+                                                 [02]: fe80::6e4f:fd41:d5cf:7253
+                                           [02]: Realtek PCIe FE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

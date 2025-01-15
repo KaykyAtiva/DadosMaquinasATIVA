@@ -1,0 +1,71 @@
+
+Nome do host:                              COMERCIAL06-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-80000-00000-AA264
+Data da instalaá∆o original:               07/12/2023, 12:06:41
+Tempo de Inicializaá∆o do Sistema:         22/04/2024, 09:49:03
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 270s  
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3300 Mhz
+Vers∆o do BIOS:                            Dell Inc. A09, 22/11/2012
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.066 MB
+Mem¢ria f°sica dispon°vel:                 2.427 MB
+Mem¢ria Virtual: Tamanho M†ximo:           12.081 MB
+Mem¢ria Virtual: Dispon°vel:               4.356 MB
+Mem¢ria Virtual: Em Uso:                   7.725 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMERCIAL06-PC
+Hotfix(es):                                13 hotfix(es) instalado(s).
+                                           [01]: KB5036034
+                                           [02]: KB5031988
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5015684
+                                           [06]: KB5020683
+                                           [07]: KB5026037
+                                           [08]: KB5035941
+                                           [09]: KB5014032
+                                           [10]: KB5016705
+                                           [11]: KB5032392
+                                           [12]: KB5032907
+                                           [13]: KB5036447
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Dell Wireless 1506 802.11b|g|n (2.4GHz)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.218
+                                                 [02]: fe80::c803:726:b47f:bab1
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.108
+                                                 [02]: fe80::3813:d012:4529:cc54
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

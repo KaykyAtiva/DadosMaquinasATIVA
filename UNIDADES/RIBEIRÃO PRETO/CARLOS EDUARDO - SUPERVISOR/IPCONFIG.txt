@@ -1,0 +1,85 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : Supervisor
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : local.lan
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : local.lan
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Endereáo F°sico . . . . . . . . . . . . . . : 74-86-7A-F4-96-83
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador desconhecido OpenVPN Wintun:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Wintun Userspace Tunnel
+   Endereáo F°sico . . . . . . . . . . . . . . : 
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador desconhecido OpenVPN TAP-Windows6:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-FF-CF-04-E0-9C
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::c585:9c26:dba1:91a8%19(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.230.115(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quarta-feira, 15 de maio de 2024 10:04:29
+   Concess∆o Expira. . . . . . . . . . . . . . : sexta-feira, 16 de maio de 2025 06:59:05
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.100.230.254
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 318832591
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-CE-C4-91-74-86-7A-F4-96-83
+   Servidores DNS. . . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                                 fec0:0:0:ffff::2%1
+                                                 fec0:0:0:ffff::3%1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : 1A-76-3F-CC-FC-16
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereáo F°sico . . . . . . . . . . . . . . : 2A-76-3F-CC-FC-16
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : local.lan
+   Descriá∆o . . . . . . . . . . . . . . . . . : Dell Wireless 1506 802.11b/g/n (2.4GHz)
+   Endereáo F°sico . . . . . . . . . . . . . . : B8-76-3F-CC-FC-16
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::6377:7803:c58:27c8%17(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.31.209(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 06:59:11
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 11:11:52
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.31.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.31.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 297301567
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2B-CE-C4-91-74-86-7A-F4-96-83
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.31.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado

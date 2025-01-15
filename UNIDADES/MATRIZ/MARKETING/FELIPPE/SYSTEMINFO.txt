@@ -1,0 +1,47 @@
+
+Nome do host:                              MARKETING-07
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-60964-41389-AAOEM
+Data da instalaá∆o original:               20/06/2023, 16:47:37
+Tempo de Inicializaá∆o do Sistema:         22/05/2024, 07:56:03
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.10.0, 14/02/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 1.449 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.193 MB
+Mem¢ria Virtual: Dispon°vel:               10.599 MB
+Mem¢ria Virtual: Em Uso:                   10.594 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\MARKETING-07
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5026039
+                                           [04]: KB5035853
+                                           [05]: KB5035967
+Placa(s) de Rede:                          1 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.77
+                                                 [02]: fe80::4730:3d58:2913:f60d
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

@@ -1,0 +1,57 @@
+
+Nome do host:                              COBRANCA02-PC
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61077-71584-AAOEM
+Data da instalaá∆o original:               28/09/2023, 15:27:26
+Tempo de Inicializaá∆o do Sistema:         29/04/2024, 07:56:18
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.15.0, 12/07/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 481 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.168 MB
+Mem¢ria Virtual: Dispon°vel:               2.295 MB
+Mem¢ria Virtual: Em Uso:                   13.873 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COBRANCA02-PC
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5030323
+                                           [03]: KB5031274
+                                           [04]: KB5034123
+                                           [05]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.230
+                                                 [02]: fe80::7808:86a0:4d1a:6feb
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.76
+                                                 [02]: fe80::c0f0:d4a5:8063:c07e
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

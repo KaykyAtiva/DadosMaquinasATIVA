@@ -1,0 +1,81 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\DELA1C4\1&8713bca&0&UID0
+Monitor Name             : DELL P2422H
+Serial Number            : 2VWJZM3
+Manufacture Week         : 36 / 2022
+ManufacturerID           : 44048 (0xAC10)
+ProductID                : 41412 (0xA1C4)
+Serial Number (Numeric)  : 827541570 (0x31534842)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 76 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 53 X 30 cm (24.0 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1280 X  720  75 Hz
+    1152 X  864  75 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1600 X  900  60 Hz
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\DELA1C4\5&29c4e18a&0&UID4354
+Monitor Name             : DELL P2422H
+Serial Number            : 2VWJZM3
+Manufacture Week         : 36 / 2022
+ManufacturerID           : 44048 (0xAC10)
+ProductID                : 41412 (0xA1C4)
+Serial Number (Numeric)  : 827541570 (0x31534842)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 76 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 53 X 30 cm (24.0 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1280 X  720  75 Hz
+    1152 X  864  75 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1600 X  900  60 Hz
+    1920 X 1080  60 Hz
+
+*****************************************************************

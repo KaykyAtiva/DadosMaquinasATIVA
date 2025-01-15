@@ -1,0 +1,60 @@
+
+Nome do host:                              DESKTOP-TSBPCJ1
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Usuario
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-80000-00000-AA271
+Data da instalaá∆o original:               22/11/2023, 09:10:08
+Tempo de Inicializaá∆o do Sistema:         21/05/2024, 13:57:52
+Fabricante do sistema:                     To Be Filled By O.E.M.
+Modelo do sistema:                         To Be Filled By O.E.M.
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~3600 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. P4.10, 09/04/2019
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.126 MB
+Mem¢ria f°sica dispon°vel:                 3.635 MB
+Mem¢ria Virtual: Tamanho M†ximo:           9.406 MB
+Mem¢ria Virtual: Dispon°vel:               2.747 MB
+Mem¢ria Virtual: Em Uso:                   6.659 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-TSBPCJ1
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5017022
+                                           [02]: KB5015684
+                                           [03]: KB5017308
+                                           [04]: KB5014032
+                                           [05]: KB5016705
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.200.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.200.151
+                                                 [02]: fe80::14bc:e044:3722:870d
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.22
+                                                 [02]: fe80::f884:749a:c43b:5ed
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

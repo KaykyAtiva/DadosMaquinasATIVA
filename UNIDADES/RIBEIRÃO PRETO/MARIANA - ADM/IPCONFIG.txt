@@ -1,0 +1,85 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : COMERCIAL08-PC
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : local.lan
+
+Adaptador desconhecido OpenVPN TAP-Windows6:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : TAP-Windows Adapter V9
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-FF-CE-F3-C1-36
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::8118:553:c905:af90%15(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.100.230.111(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 06:59:02
+   Concess∆o Expira. . . . . . . . . . . . . . : sexta-feira, 16 de maio de 2025 06:59:02
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+   Servidor DHCP . . . . . . . . . . . . . . . : 10.100.230.254
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 453050318
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-28-39-D9-1D-74-86-7A-F4-98-9F
+   Servidores DNS. . . . . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                                 fec0:0:0:ffff::2%1
+                                                 fec0:0:0:ffff::3%1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador desconhecido OpenVPN Wintun:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Wintun Userspace Tunnel
+   Endereáo F°sico . . . . . . . . . . . . . . : 
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador Ethernet Conex∆o local 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller #2
+   Endereáo F°sico . . . . . . . . . . . . . . : 84-D8-1B-9D-1E-C4
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conex∆o de Rede sem Fio:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : local.lan
+   Descriá∆o . . . . . . . . . . . . . . . . . : Dell Wireless 1506 802.11b/g/n (2.4GHz)
+   Endereáo F°sico . . . . . . . . . . . . . . : B8-76-3F-CC-FC-11
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::e8d1:5877:9cdc:c1ce%12(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.31.192(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concess∆o Obtida. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 06:58:28
+   Concess∆o Expira. . . . . . . . . . . . . . : quinta-feira, 16 de maio de 2024 11:52:30
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.31.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.31.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 314078783
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-28-39-D9-1D-74-86-7A-F4-98-9F
+   Servidores DNS. . . . . . . . . . . . . . . : 192.168.31.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador de t£nel isatap.local.lan:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : local.lan
+   Descriá∆o . . . . . . . . . . . . . . . . . : Adaptador do Microsoft ISATAP
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+
+Adaptador de t£nel isatap.{CEF3C136-D344-42B3-9CE6-0A27D021CDB3}:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Adaptador do Microsoft ISATAP #4
+   Endereáo F°sico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim

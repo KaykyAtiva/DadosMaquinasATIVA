@@ -1,0 +1,26 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\CMN15E5\4&39434ba4&0&UID8388688
+Manufacture Week         : 9 / 2021
+ManufacturerID           : 44557 (0xAE0D)
+ProductID                : 5605 (0x15E5)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Image Size               : 34.4 X 19.3 cm (15.5 Inch)
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+    1920 X 1080  60 Hz
+
+*****************************************************************

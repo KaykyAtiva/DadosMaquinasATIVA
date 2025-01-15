@@ -1,0 +1,60 @@
+
+Nome do host:                              ADM-2
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Adm 2
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62732-92123-AAOEM
+Data da instalaá∆o original:               13/10/2022, 09:19:02
+Tempo de Inicializaá∆o do Sistema:         26/04/2024, 11:42:36
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2901 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.15.0, 09/08/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-04:00) Cuiab†
+Mem¢ria f°sica total:                      7.939 MB
+Mem¢ria f°sica dispon°vel:                 677 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.915 MB
+Mem¢ria Virtual: Dispon°vel:               3.953 MB
+Mem¢ria Virtual: Em Uso:                   12.962 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ADM-2
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5012170
+                                           [03]: KB5034123
+                                           [04]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.3
+                                                 [02]: fe80::6c7c:29f:aa6:c524
+                                                 [03]: 2804:ebc:b02a:c700:8819:5860:8189:d4c8
+                                                 [04]: 2804:ebc:b02a:c700:57e1:7188:ce56:1345
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.97
+                                                 [02]: fe80::9884:b11b:72c9:346f
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

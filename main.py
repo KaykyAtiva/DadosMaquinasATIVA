@@ -1,6 +1,6 @@
 from ExtrairInfo import extrair_informacoes
 
-caminho_base = "C:\\GitHub\\TermoResponsabilidadePc"
+caminho_base = "C:\\UNIDADES\\UNIDADES\\MATRIZ\\ATIVO FIXO\\LUIS"
 
 arquivos = ["SYSTEMINFO.txt", "IPCONFIG.txt", "DISK.txt", "MEM.txt", "CPU.txt", "dumpedid.txt", "MOUSE E TECLADO.txt"]
 

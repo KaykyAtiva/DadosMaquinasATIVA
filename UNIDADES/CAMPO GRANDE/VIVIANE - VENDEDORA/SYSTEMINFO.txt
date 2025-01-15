@@ -1,0 +1,65 @@
+
+Nome do host:                              PAULO
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Gerància
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62732-92121-AAOEM
+Data da instalaá∆o original:               07/12/2022, 08:24:32
+Tempo de Inicializaá∆o do Sistema:         13/05/2024, 07:10:27
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2901 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.12.1, 27/05/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-04:00) Cuiab†
+Mem¢ria f°sica total:                      7.938 MB
+Mem¢ria f°sica dispon°vel:                 1.311 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.795 MB
+Mem¢ria Virtual: Dispon°vel:               4.483 MB
+Mem¢ria Virtual: Em Uso:                   10.312 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\PAULO
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5035853
+                                           [04]: KB5035967
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.29
+                                                 [02]: fe80::43c8:73ff:33b5:6d4d
+                                                 [03]: 2804:ebc:b02a:c700:c868:4e60:c21b:818f
+                                                 [04]: 2804:ebc:b02a:c700:6149:b1e7:1104:30bc
+                                                 [05]: 2804:ebc:b02a:c700:49a1:b361:51ae:a425
+                                                 [06]: 2804:ebc:b02a:c700:1d54:a82a:7345:f5ec
+                                                 [07]: 2804:ebc:b02a:c700:cee:3d3e:ab66:d05c
+                                                 [08]: 2804:ebc:b02a:c700:589b:6805:4fd0:d86e
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.101
+                                                 [02]: fe80::cc5b:f882:77f5:2d77
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

@@ -1,0 +1,63 @@
+
+Nome do host:                              ATV-LIM-01
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61402-00587-AAOEM
+Data da instalaá∆o original:               20/02/2024, 16:25:30
+Tempo de Inicializaá∆o do Sistema:         24/05/2024, 07:30:36
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Latitude 3540
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 186 Stepping 3 GenuineIntel ~1300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.1, 09/11/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.877 MB
+Mem¢ria f°sica dispon°vel:                 689 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.581 MB
+Mem¢ria Virtual: Dispon°vel:               6.124 MB
+Mem¢ria Virtual: Em Uso:                   10.457 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ATV-LIM-01
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5027397
+                                           [03]: KB5033055
+                                           [04]: KB5034765
+                                           [05]: KB5034225
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.16
+                                                 [02]: fe80::b5ca:4c1f:d4ff:1048
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.21
+                                                 [02]: fe80::af10:4104:8aa7:9161
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

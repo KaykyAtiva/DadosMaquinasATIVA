@@ -1,0 +1,68 @@
+
+Nome do host:                              DESKTOP-QTOP9FA
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-50000-00000-AAOEM
+Data da instalaá∆o original:               18/01/2023, 15:22:39
+Tempo de Inicializaá∆o do Sistema:         14/05/2024, 09:29:23
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 270s  
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~3300 Mhz
+Vers∆o do BIOS:                            Dell Inc. A09, 22/11/2012
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      3.968 MB
+Mem¢ria f°sica dispon°vel:                 526 MB
+Mem¢ria Virtual: Tamanho M†ximo:           7.552 MB
+Mem¢ria Virtual: Dispon°vel:               1.324 MB
+Mem¢ria Virtual: Em Uso:                   6.228 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-QTOP9FA
+Hotfix(es):                                10 hotfix(es) instalado(s).
+                                           [01]: KB5034468
+                                           [02]: KB5011048
+                                           [03]: KB5012170
+                                           [04]: KB5015684
+                                           [05]: KB5033052
+                                           [06]: KB5034763
+                                           [07]: KB5014032
+                                           [08]: KB5016705
+                                           [09]: KB5020372
+                                           [10]: KB5034224
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Dell Wireless 1506 802.11b|g|n (2.4GHz)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.222
+                                                 [02]: fe80::492c:a566:1b3f:1439
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.7
+                                                 [02]: fe80::9cd2:dd3f:9ba4:1742
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

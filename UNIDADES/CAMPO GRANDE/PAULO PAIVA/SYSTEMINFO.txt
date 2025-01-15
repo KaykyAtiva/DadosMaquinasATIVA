@@ -1,0 +1,62 @@
+
+Nome do host:                              COMERCIAL-03
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Comercial 3
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62732-92124-AAOEM
+Data da instalaá∆o original:               12/02/2023, 15:35:01
+Tempo de Inicializaá∆o do Sistema:         24/05/2024, 07:14:32
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2901 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.2.1, 20/08/2021
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume5
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-04:00) Cuiab†
+Mem¢ria f°sica total:                      7.940 MB
+Mem¢ria f°sica dispon°vel:                 1.136 MB
+Mem¢ria Virtual: Tamanho M†ximo:           11.140 MB
+Mem¢ria Virtual: Dispon°vel:               2.025 MB
+Mem¢ria Virtual: Em Uso:                   9.115 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMERCIAL-03
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5012170
+                                           [03]: KB5027397
+                                           [04]: KB5037771
+                                           [05]: KB5037663
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.4
+                                                 [02]: fe80::e9d3:264f:f5e7:4b84
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.11
+                                                 [02]: fe80::5879:c56e:d966:837e
+                                                 [03]: 2804:ebc:b02a:c700:dd70:8f2c:e0f4:2974
+                                                 [04]: 2804:ebc:b02a:c700:89c9:7837:e813:1091
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

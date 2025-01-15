@@ -1,0 +1,65 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\DEL423D\4&7458e2b&0&UID4161
+Monitor Name             : DELL P2222H
+Serial Number            : 3D0P8Q3
+Manufacture Week         : 11 / 2024
+ManufacturerID           : 44048 (0xAC10)
+ProductID                : 16957 (0x423D)
+Serial Number (Numeric)  : 825382210 (0x31325542)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 76 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 48 X 27 cm (21.7 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1280 X  720  75 Hz
+    1152 X  864  75 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1600 X  900  60 Hz
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\MS_0001\4&7458e2b&0&UID2146428
+Manufacture Week         : 0 / 2002
+ManufacturerID           : 32566 (0x7F36)
+ProductID                : 1 (0x0001)
+Serial Number (Numeric)  : 1 (0x00000001)
+EDID Version             : 1.4
+Display Gamma            : 3.55
+Vertical Frequency       : 60 - 0 Hz
+Horizontal Frequency     : 172 - 0 KHz
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : Yes
+Digital                  : Yes
+
+Supported Display Modes  :
+    1920 X 1080  60 Hz
+
+*****************************************************************

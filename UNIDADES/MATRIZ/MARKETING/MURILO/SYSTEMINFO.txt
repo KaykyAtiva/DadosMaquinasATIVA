@@ -1,0 +1,52 @@
+
+Nome do host:                              MARKETING-DA
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   suporteti@ativalocacao.com.br
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-60784-33525-AAOEM
+Data da instalaá∆o original:               13/10/2022, 08:37:18
+Tempo de Inicializaá∆o do Sistema:         13/05/2024, 08:05:58
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         XPS 8950
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 2 GenuineIntel ~2100 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.18.0, 26/01/2024
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      32.492 MB
+Mem¢ria f°sica dispon°vel:                 15.147 MB
+Mem¢ria Virtual: Tamanho M†ximo:           74.926 MB
+Mem¢ria Virtual: Dispon°vel:               46.938 MB
+Mem¢ria Virtual: Em Uso:                   27.988 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\MARKETING-DA
+Hotfix(es):                                7 hotfix(es) instalado(s).
+                                           [01]: KB5036620
+                                           [02]: KB5037591
+                                           [03]: KB5012170
+                                           [04]: KB5027397
+                                           [05]: KB5037771
+                                           [06]: KB5037020
+                                           [07]: KB5037663
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Killer(R) Wi-Fi 6E AX1675x 160MHz Wireless Network Adapter (210NGW)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Killer E3100G 2.5 Gigabit Ethernet Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.21
+                                                 [02]: fe80::693b:1821:dcba:9959
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

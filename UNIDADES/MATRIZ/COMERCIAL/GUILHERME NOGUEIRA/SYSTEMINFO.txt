@@ -1,0 +1,70 @@
+
+Nome do host:                              DESKTOP-DEI346O
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-50000-00000-AAOEM
+Data da instalaá∆o original:               19/04/2024, 16:48:13
+Tempo de Inicializaá∆o do Sistema:         16/05/2024, 08:10:22
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Inspiron 3647
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3400 Mhz
+Vers∆o do BIOS:                            Dell Inc. A08, 29/06/2015
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.109 MB
+Mem¢ria f°sica dispon°vel:                 3.217 MB
+Mem¢ria Virtual: Tamanho M†ximo:           9.389 MB
+Mem¢ria Virtual: Dispon°vel:               3.817 MB
+Mem¢ria Virtual: Em Uso:                   5.572 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-DEI346O
+Hotfix(es):                                13 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5036608
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5015684
+                                           [06]: KB5020683
+                                           [07]: KB5026037
+                                           [08]: KB5033052
+                                           [09]: KB5037768
+                                           [10]: KB5014032
+                                           [11]: KB5016705
+                                           [12]: KB5037018
+                                           [13]: KB5037240
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.83
+                                                 [02]: fe80::6631:6717:bad0:ddf1
+                                           [02]: Dell Wireless 1705 802.11b/g/n (2.4GHZ)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

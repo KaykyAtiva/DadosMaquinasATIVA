@@ -1,0 +1,75 @@
+
+Nome do host:                              SAC06
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-81487-49323-AA572
+Data da instalaá∆o original:               19/12/2022, 08:56:49
+Tempo de Inicializaá∆o do Sistema:         12/04/2024, 18:00:53
+Fabricante do sistema:                     MSI
+Modelo do sistema:                         MS-7817
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3700 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. V6.7, 21/04/2015
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.070 MB
+Mem¢ria f°sica dispon°vel:                 979 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.440 MB
+Mem¢ria Virtual: Dispon°vel:               2.460 MB
+Mem¢ria Virtual: Em Uso:                   11.980 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\SAC06
+Hotfix(es):                                20 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5028853
+                                           [03]: KB5000736
+                                           [04]: KB5011048
+                                           [05]: KB5011067
+                                           [06]: KB5012170
+                                           [07]: KB5015684
+                                           [08]: KB5034122
+                                           [09]: KB5020372
+                                           [10]: KB5022924
+                                           [11]: KB5023794
+                                           [12]: KB5025315
+                                           [13]: KB5026879
+                                           [14]: KB5028318
+                                           [15]: KB5028380
+                                           [16]: KB5029709
+                                           [17]: KB5031539
+                                           [18]: KB5032392
+                                           [19]: KB5032907
+                                           [20]: KB5005699
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.188
+                                                 [02]: fe80::9d0:979b:d01c:bab8
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.73
+                                                 [02]: fe80::8054:54c9:574a:3a8a
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

@@ -1,0 +1,120 @@
+
+Erro: linha de comando nÆo reconhecida ou incompleta.
+
+USO:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [adapter] | /release [adapter] |
+                                 /renew6 [adapter] | /release6 [adapter] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid adapter |
+                                 /setclassid adapter [classid] |
+                                 /showclassid6 adapter |
+                                 /setclassid6 adapter [classid] ]
+
+onde
+    adapter           Nome da conexÆo
+                     (caracteres curinga * e ? permitidos; consulte exemplos)
+
+    Op‡äes:
+       /?               Exibir esta mensagem de ajuda
+       /all             Exibir informa‡äes completas sobre configura‡Æo.
+       /release         Liberar o endere‡o IPv4 para o adaptador especificado.
+       /release6        Liberar o endere‡o IPv6 para o adaptador especificado.
+       /renew           Renovar o endere‡o IPv4 para o adaptador especificado.
+       /renew6          Renovar o endere‡o IPv6 para o adaptador especificado.
+       /flushdns        Limpa o cache do DNS Resolver.
+       /registerdns     Atualiza todas as concessäes de DHCP e registra
+                        novamente nomes DNS
+       /displaydns      Exibir o conte£do do Cache do DNS Resolver.
+       /showclassid     Exibe todas as IDs de classe dhcp permitidas para o
+                        adaptador.
+       /setclassid      Modifica a ID de classe dhcp.
+       /showclassid6    Exibe todas as IDs de classe DHCP IPv6 permitidas para
+                        o adaptador.
+       /setclassid6     Modifica a ID de classe DHCP IPv6.
+
+
+O padrÆo ‚ exibir apenas o endere‡o IP, a m scara de sub-rede e
+o gateway padrÆo para cada adaptador limitado ao TCP/IP.
+
+Para Release e Renew, se nenhum nome de adaptador for especificado,
+as concessäes de endere‡os IP para todos os adaptadores limitados 
+ao TCP/IP serÆo liberadas ou renovadas.
+
+Para Setclassid e Setclassid6, se nenhuma ClassId for especificada, ClassId 
+ser  removida.
+
+Exemplos:
+    > ipconfig                       ... Mostrar informa‡äes
+    > ipconfig /all                  ... Mostrar informa‡äes detalhadas
+    > ipconfig /renew                ... renovar todos os adaptadores
+    > ipconfig /renew EL*            ... renovar qualquer conexÆo cujo nome
+                                         seja iniciado por EL
+    > ipconfig /release *Con*        ... liberar todas as conexäes 
+                                         correspondentes, por exemplo,
+                                          "ConexÆo Ethernet com Fio 1" ou
+                                         "ConexÆo Ethernet com Fio 2"
+    > ipconfig /allcompartments      ... Mostra informa‡äes sobre todos os
+                                         compartimentos
+    > ipconfig /allcompartments /all ... Mostra informa‡äes detalhadas sobre
+                                         todos os compartimentos
+
+Erro: linha de comando nÆo reconhecida ou incompleta.
+
+USO:
+    ipconfig [/allcompartments] [/? | /all |
+                                 /renew [adapter] | /release [adapter] |
+                                 /renew6 [adapter] | /release6 [adapter] |
+                                 /flushdns | /displaydns | /registerdns |
+                                 /showclassid adapter |
+                                 /setclassid adapter [classid] |
+                                 /showclassid6 adapter |
+                                 /setclassid6 adapter [classid] ]
+
+onde
+    adapter           Nome da conexÆo
+                     (caracteres curinga * e ? permitidos; consulte exemplos)
+
+    Op‡äes:
+       /?               Exibir esta mensagem de ajuda
+       /all             Exibir informa‡äes completas sobre configura‡Æo.
+       /release         Liberar o endere‡o IPv4 para o adaptador especificado.
+       /release6        Liberar o endere‡o IPv6 para o adaptador especificado.
+       /renew           Renovar o endere‡o IPv4 para o adaptador especificado.
+       /renew6          Renovar o endere‡o IPv6 para o adaptador especificado.
+       /flushdns        Limpa o cache do DNS Resolver.
+       /registerdns     Atualiza todas as concessäes de DHCP e registra
+                        novamente nomes DNS
+       /displaydns      Exibir o conte£do do Cache do DNS Resolver.
+       /showclassid     Exibe todas as IDs de classe dhcp permitidas para o
+                        adaptador.
+       /setclassid      Modifica a ID de classe dhcp.
+       /showclassid6    Exibe todas as IDs de classe DHCP IPv6 permitidas para
+                        o adaptador.
+       /setclassid6     Modifica a ID de classe DHCP IPv6.
+
+
+O padrÆo ‚ exibir apenas o endere‡o IP, a m scara de sub-rede e
+o gateway padrÆo para cada adaptador limitado ao TCP/IP.
+
+Para Release e Renew, se nenhum nome de adaptador for especificado,
+as concessäes de endere‡os IP para todos os adaptadores limitados 
+ao TCP/IP serÆo liberadas ou renovadas.
+
+Para Setclassid e Setclassid6, se nenhuma ClassId for especificada, ClassId 
+ser  removida.
+
+Exemplos:
+    > ipconfig                       ... Mostrar informa‡äes
+    > ipconfig /all                  ... Mostrar informa‡äes detalhadas
+    > ipconfig /renew                ... renovar todos os adaptadores
+    > ipconfig /renew EL*            ... renovar qualquer conexÆo cujo nome
+                                         seja iniciado por EL
+    > ipconfig /release *Con*        ... liberar todas as conexäes 
+                                         correspondentes, por exemplo,
+                                          "ConexÆo Ethernet com Fio 1" ou
+                                         "ConexÆo Ethernet com Fio 2"
+    > ipconfig /allcompartments      ... Mostra informa‡äes sobre todos os
+                                         compartimentos
+    > ipconfig /allcompartments /all ... Mostra informa‡äes detalhadas sobre
+                                         todos os compartimentos

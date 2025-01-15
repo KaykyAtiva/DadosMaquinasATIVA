@@ -1,0 +1,58 @@
+
+Nome do host:                              DESKTOP-KDD50SK
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   N/A
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-80000-00000-AA660
+Data da instalaá∆o original:               02/01/2024, 10:13:22
+Tempo de Inicializaá∆o do Sistema:         09/05/2024, 16:23:12
+Fabricante do sistema:                     PCWARE
+Modelo do sistema:                         IPMH410E
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~3601 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 5.17, 02/03/2021
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-04:00) Cuiab†
+Mem¢ria f°sica total:                      8.050 MB
+Mem¢ria f°sica dispon°vel:                 2.934 MB
+Mem¢ria Virtual: Tamanho M†ximo:           13.426 MB
+Mem¢ria Virtual: Dispon°vel:               4.452 MB
+Mem¢ria Virtual: Em Uso:                   8.974 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-KDD50SK
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5022497
+                                           [02]: KB5023706
+                                           [03]: KB5022948
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.106
+                                                 [02]: fe80::efef:baab:d4a4:e04a
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.82
+                                                 [02]: fe80::326a:6714:45ab:14e6
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

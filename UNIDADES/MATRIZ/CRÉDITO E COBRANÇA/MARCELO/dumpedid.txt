@@ -1,0 +1,198 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\DELD03A\4&25870555&0&UID16843008
+Monitor Name             : DELL E1914H
+Serial Number            : FCFPK45Q22QM
+Manufacture Week         : 9 / 2014
+ManufacturerID           : 44048 (0xAC10)
+ProductID                : 53306 (0xD03A)
+Serial Number (Numeric)  : 842158413 (0x3232514D)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 75 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 41 X 23 cm (18.5 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : Yes
+Support Suspend Mode     : Yes
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : No
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  75 Hz
+    1366 X  768  60 Hz
+    1280 X 1024  75 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\DELF03E\4&25870555&0&UID16843008
+Monitor Name             : DELL E1912H
+Serial Number            : HDK1P34G5NXM
+Manufacture Week         : 17 / 2013
+ManufacturerID           : 44048 (0xAC10)
+ProductID                : 61502 (0xF03E)
+Serial Number (Numeric)  : 894326861 (0x354E584D)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 75 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 41 X 23 cm (18.5 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : Yes
+Support Suspend Mode     : Yes
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : No
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  75 Hz
+    1366 X  768  60 Hz
+    1280 X 1024  75 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM0109\4&25870555&0&UID16843008
+Monitor Name             : SyncMaster
+Serial Number            : HXAY804585
+Manufacture Week         : 35 / 2005
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 265 (0x0109)
+Serial Number (Numeric)  : 1279799609 (0x4C483139)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 50 - 160 Hz
+Horizontal Frequency     : 30 - 96 KHz
+Maximum Image Size       : 35 X 26 cm (17.2 Inch)
+Maximum Resolution       : 2048 X 1536
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : Yes
+Digital                  : No
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     640 X  480  85 Hz
+     800 X  600  56 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     800 X  600  85 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1024 X  768  85 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1280 X 1024  85 Hz
+    1600 X 1200  60 Hz
+    1600 X 1200  75 Hz
+    2048 X 1536  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM011D\4&25870555&0&UID16843008
+Monitor Name             : SyncMaster
+Serial Number            : HXCY610535
+Manufacture Week         : 26 / 2005
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 285 (0x011D)
+Serial Number (Numeric)  : 1296707893 (0x4D4A3135)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 75 Hz
+Horizontal Frequency     : 30 - 61 KHz
+Maximum Image Size       : 30 X 23 cm (14.9 Inch)
+Maximum Resolution       : 1024 X 768
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : No
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  56 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM01B7\4&25870555&0&UID16843008
+Monitor Name             : SyncMaster
+Serial Number            : HXCL315147
+Manufacture Week         : 13 / 2006
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 439 (0x01B7)
+Serial Number (Numeric)  : 1212231991 (0x48413137)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 56 - 75 Hz
+Horizontal Frequency     : 30 - 81 KHz
+Maximum Image Size       : 34 X 27 cm (17.1 Inch)
+Maximum Resolution       : 1280 X 1024
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : No
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  56 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1152 X  864  75 Hz
+    1280 X  960  60 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+
+*****************************************************************

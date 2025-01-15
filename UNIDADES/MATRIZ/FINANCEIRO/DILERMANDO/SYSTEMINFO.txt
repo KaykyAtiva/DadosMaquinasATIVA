@@ -1,0 +1,57 @@
+
+Nome do host:                              FATURAMENTO03
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61077-71585-AAOEM
+Data da instalaá∆o original:               04/09/2023, 11:55:29
+Tempo de Inicializaá∆o do Sistema:         16/05/2024, 18:26:04
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.15.0, 12/07/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 1.084 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.585 MB
+Mem¢ria Virtual: Dispon°vel:               5.225 MB
+Mem¢ria Virtual: Em Uso:                   11.360 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\FATURAMENTO03
+Hotfix(es):                                6 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5027397
+                                           [03]: KB5029517
+                                           [04]: KB5037771
+                                           [05]: KB5034225
+                                           [06]: KB5037663
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.104
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.5
+                                                 [02]: fe80::6ae5:b9af:a5d0:7200
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

@@ -1,0 +1,68 @@
+
+Nome do host:                              DESKTOP-4UKKSKP
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-52406-82037-AAOEM
+Data da instalaá∆o original:               05/02/2024, 14:49:29
+Tempo de Inicializaá∆o do Sistema:         07/05/2024, 09:46:46
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 3583
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.27.0, 16/11/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume2
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.064 MB
+Mem¢ria f°sica dispon°vel:                 1.304 MB
+Mem¢ria Virtual: Tamanho M†ximo:           16.471 MB
+Mem¢ria Virtual: Dispon°vel:               7.157 MB
+Mem¢ria Virtual: Em Uso:                   9.314 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-4UKKSKP
+Hotfix(es):                                10 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5034468
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5015684
+                                           [06]: KB5033052
+                                           [07]: KB5034122
+                                           [08]: KB5014032
+                                           [09]: KB5016705
+                                           [10]: KB5032907
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Intel(R) Wireless-AC 9462
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.171
+                                                 [02]: fe80::a43c:226b:aee5:53e1
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.82
+                                                 [02]: fe80::571c:20a:c2c6:8d9d
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

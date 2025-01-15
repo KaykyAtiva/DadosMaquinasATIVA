@@ -1,0 +1,80 @@
+
+Nome do host:                              ASSIST-FROTA
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-63029-18337-AAOEM
+Data da instalaá∆o original:               07/10/2022, 15:25:56
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 08:19:10
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.8.1, 02/12/2022
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 1.016 MB
+Mem¢ria Virtual: Tamanho M†ximo:           25.289 MB
+Mem¢ria Virtual: Dispon°vel:               11.703 MB
+Mem¢ria Virtual: Em Uso:                   13.586 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ASSIST-FROTA
+Hotfix(es):                                25 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5028013
+                                           [03]: KB4534170
+                                           [04]: KB4537759
+                                           [05]: KB4545706
+                                           [06]: KB4598481
+                                           [07]: KB5003791
+                                           [08]: KB5011048
+                                           [09]: KB5011067
+                                           [10]: KB5012170
+                                           [11]: KB5015684
+                                           [12]: KB5034122
+                                           [13]: KB5014032
+                                           [14]: KB5016705
+                                           [15]: KB5020372
+                                           [16]: KB5022924
+                                           [17]: KB5023794
+                                           [18]: KB5025315
+                                           [19]: KB5026879
+                                           [20]: KB5028318
+                                           [21]: KB5028380
+                                           [22]: KB5029709
+                                           [23]: KB5031539
+                                           [24]: KB5032392
+                                           [25]: KB5032907
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.222
+                                                 [02]: fe80::acb7:e914:aa40:7f07
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.44
+                                                 [02]: fe80::841e:4766:5214:e20d
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

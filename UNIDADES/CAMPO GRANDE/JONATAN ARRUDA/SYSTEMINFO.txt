@@ -1,0 +1,61 @@
+
+Nome do host:                              DESKTOP-BJD9M23
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   User
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-63029-18350-AAOEM
+Data da instalaá∆o original:               09/11/2022, 09:04:50
+Tempo de Inicializaá∆o do Sistema:         24/05/2024, 08:53:58
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.0, 14/12/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 1.620 MB
+Mem¢ria Virtual: Tamanho M†ximo:           19.145 MB
+Mem¢ria Virtual: Dispon°vel:               6.157 MB
+Mem¢ria Virtual: Em Uso:                   12.988 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-BJD9M23
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5034765
+                                           [04]: KB5034225
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.27
+                                                 [02]: fe80::f673:9d70:c484:3912
+                                                 [03]: 2804:ebc:b02a:c700:dce7:ed65:c283:73f2
+                                                 [04]: 2804:ebc:b02a:c700:849d:74d5:7f5f:e2fd
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.84
+                                                 [02]: fe80::9ce3:99e6:721c:446b
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

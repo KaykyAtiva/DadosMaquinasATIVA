@@ -1,0 +1,61 @@
+
+Nome do host:                              ATIVA87-PC
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Usuario
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62856-23257-AAOEM
+Data da instalaá∆o original:               06/12/2022, 09:52:57
+Tempo de Inicializaá∆o do Sistema:         22/05/2024, 10:23:52
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.16.0, 02/09/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.939 MB
+Mem¢ria f°sica dispon°vel:                 1.813 MB
+Mem¢ria Virtual: Tamanho M†ximo:           12.291 MB
+Mem¢ria Virtual: Dispon°vel:               2.677 MB
+Mem¢ria Virtual: Em Uso:                   9.614 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\ATIVA87-PC
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5012170
+                                           [03]: KB5034123
+                                           [04]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.254
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.144
+                                                 [02]: fe80::9433:d77e:a4f:722
+                                                 [03]: 2804:45e8:565a:7dd1:d17a:21a:5b07:181c
+                                                 [04]: 2804:45e8:565a:7dd1:3a9f:dea3:41fc:1e75
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.87
+                                                 [02]: fe80::ea4b:bbaf:80fa:9e76
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

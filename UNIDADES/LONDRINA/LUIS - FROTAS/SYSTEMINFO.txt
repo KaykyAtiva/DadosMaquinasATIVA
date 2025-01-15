@@ -1,0 +1,50 @@
+
+Nome do host:                              DESKTOP-4HVRAP9
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-63029-18330-AAOEM
+Data da instalaá∆o original:               19/01/2023, 14:22:02
+Tempo de Inicializaá∆o do Sistema:         23/05/2024, 08:02:16
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3000
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 151 Stepping 5 GenuineIntel ~2000 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.0, 14/12/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 1.149 MB
+Mem¢ria Virtual: Tamanho M†ximo:           9.929 MB
+Mem¢ria Virtual: Dispon°vel:               2.126 MB
+Mem¢ria Virtual: Em Uso:                   7.803 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-4HVRAP9
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5012170
+                                           [03]: KB5027397
+                                           [04]: KB5037771
+                                           [05]: KB5037663
+Placa(s) de Rede:                          1 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.39
+                                                 [02]: fe80::366b:4d27:2061:f998
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

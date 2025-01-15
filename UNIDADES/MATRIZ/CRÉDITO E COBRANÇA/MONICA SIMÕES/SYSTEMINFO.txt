@@ -1,0 +1,64 @@
+
+Nome do host:                              COBRANCA03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-50736-01661-AAOEM
+Data da instalaá∆o original:               18/08/2023, 14:00:16
+Tempo de Inicializaá∆o do Sistema:         27/03/2024, 17:33:41
+Fabricante do sistema:                     LENOVO
+Modelo do sistema:                         10NN001HBP
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~3912 Mhz
+Vers∆o do BIOS:                            LENOVO M16KT60A, 17/09/2019
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.103 MB
+Mem¢ria f°sica dispon°vel:                 1.933 MB
+Mem¢ria Virtual: Tamanho M†ximo:           12.290 MB
+Mem¢ria Virtual: Dispon°vel:               4.141 MB
+Mem¢ria Virtual: Em Uso:                   8.149 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COBRANCA03-PC
+Hotfix(es):                                13 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5028951
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5015684
+                                           [06]: KB5034122
+                                           [07]: KB5014032
+                                           [08]: KB5025315
+                                           [09]: KB5028380
+                                           [10]: KB5029709
+                                           [11]: KB5031539
+                                           [12]: KB5032392
+                                           [13]: KB5032907
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.64
+                                                 [02]: fe80::7359:3996:70bb:e5fc
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

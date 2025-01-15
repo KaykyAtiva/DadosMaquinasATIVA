@@ -1,0 +1,60 @@
+
+Nome do host:                              001N-ATIVARP-02
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   User
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-60671-36651-AAOEM
+Data da instalaá∆o original:               17/09/2023, 02:28:05
+Tempo de Inicializaá∆o do Sistema:         21/05/2024, 08:21:24
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 15 5510
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 140 Stepping 2 GenuineIntel ~2496 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.18.0, 13/03/2023
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.931 MB
+Mem¢ria f°sica dispon°vel:                 1.147 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.843 MB
+Mem¢ria Virtual: Dispon°vel:               4.161 MB
+Mem¢ria Virtual: Em Uso:                   10.682 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\001N-ATIVARP-02
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5034765
+                                           [03]: KB5034225
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [02]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 Status:          M°dia desconectada
+                                           [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.146
+                                                 [02]: fe80::d32f:1f30:8392:9668
+                                           [04]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [05]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

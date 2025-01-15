@@ -1,0 +1,420 @@
+
+Nome do host:                              MARKETING03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Home
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   T-Gamer
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00326-10000-00000-AA328
+Data da instalaá∆o original:               02/02/2021, 16:11:30
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 09:09:12
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2803 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0203, 12/03/2019
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.319 MB
+Mem¢ria f°sica dispon°vel:                 6.965 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.951 MB
+Mem¢ria Virtual: Dispon°vel:               9.244 MB
+Mem¢ria Virtual: Em Uso:                   12.707 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\MARKETING03-PC
+Hotfix(es):                                37 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5028951
+                                           [03]: KB4562830
+                                           [04]: KB4580325
+                                           [05]: KB4598481
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5011067
+                                           [09]: KB5012170
+                                           [10]: KB5015684
+                                           [11]: KB5037768
+                                           [12]: KB5006753
+                                           [13]: KB5007273
+                                           [14]: KB5011352
+                                           [15]: KB5011651
+                                           [16]: KB5014032
+                                           [17]: KB5014035
+                                           [18]: KB5014671
+                                           [19]: KB5015895
+                                           [20]: KB5016705
+                                           [21]: KB5018506
+                                           [22]: KB5020372
+                                           [23]: KB5022924
+                                           [24]: KB5023794
+                                           [25]: KB5025315
+                                           [26]: KB5026879
+                                           [27]: KB5028318
+                                           [28]: KB5028380
+                                           [29]: KB5029709
+                                           [30]: KB5031539
+                                           [31]: KB5032392
+                                           [32]: KB5032907
+                                           [33]: KB5034224
+                                           [34]: KB5036447
+                                           [35]: KB5037018
+                                           [36]: KB5037240
+                                           [37]: KB5005699
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet 34
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.42
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim
+
+Nome do host:                              MARKETING03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Home
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   T-Gamer
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00326-10000-00000-AA328
+Data da instalaá∆o original:               02/02/2021, 16:11:30
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 09:09:12
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2904 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0203, 12/03/2019
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.319 MB
+Mem¢ria f°sica dispon°vel:                 6.988 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.951 MB
+Mem¢ria Virtual: Dispon°vel:               9.264 MB
+Mem¢ria Virtual: Em Uso:                   12.687 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\MARKETING03-PC
+Hotfix(es):                                37 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5028951
+                                           [03]: KB4562830
+                                           [04]: KB4580325
+                                           [05]: KB4598481
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5011067
+                                           [09]: KB5012170
+                                           [10]: KB5015684
+                                           [11]: KB5037768
+                                           [12]: KB5006753
+                                           [13]: KB5007273
+                                           [14]: KB5011352
+                                           [15]: KB5011651
+                                           [16]: KB5014032
+                                           [17]: KB5014035
+                                           [18]: KB5014671
+                                           [19]: KB5015895
+                                           [20]: KB5016705
+                                           [21]: KB5018506
+                                           [22]: KB5020372
+                                           [23]: KB5022924
+                                           [24]: KB5023794
+                                           [25]: KB5025315
+                                           [26]: KB5026879
+                                           [27]: KB5028318
+                                           [28]: KB5028380
+                                           [29]: KB5029709
+                                           [30]: KB5031539
+                                           [31]: KB5032392
+                                           [32]: KB5032907
+                                           [33]: KB5034224
+                                           [34]: KB5036447
+                                           [35]: KB5037018
+                                           [36]: KB5037240
+                                           [37]: KB5005699
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet 34
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.42
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim
+
+Nome do host:                              MARKETING03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Home
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   T-Gamer
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00326-10000-00000-AA328
+Data da instalaá∆o original:               02/02/2021, 16:11:30
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 09:09:12
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2904 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0203, 12/03/2019
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.319 MB
+Mem¢ria f°sica dispon°vel:                 6.979 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.951 MB
+Mem¢ria Virtual: Dispon°vel:               9.282 MB
+Mem¢ria Virtual: Em Uso:                   12.669 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\MARKETING03-PC
+Hotfix(es):                                37 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5028951
+                                           [03]: KB4562830
+                                           [04]: KB4580325
+                                           [05]: KB4598481
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5011067
+                                           [09]: KB5012170
+                                           [10]: KB5015684
+                                           [11]: KB5037768
+                                           [12]: KB5006753
+                                           [13]: KB5007273
+                                           [14]: KB5011352
+                                           [15]: KB5011651
+                                           [16]: KB5014032
+                                           [17]: KB5014035
+                                           [18]: KB5014671
+                                           [19]: KB5015895
+                                           [20]: KB5016705
+                                           [21]: KB5018506
+                                           [22]: KB5020372
+                                           [23]: KB5022924
+                                           [24]: KB5023794
+                                           [25]: KB5025315
+                                           [26]: KB5026879
+                                           [27]: KB5028318
+                                           [28]: KB5028380
+                                           [29]: KB5029709
+                                           [30]: KB5031539
+                                           [31]: KB5032392
+                                           [32]: KB5032907
+                                           [33]: KB5034224
+                                           [34]: KB5036447
+                                           [35]: KB5037018
+                                           [36]: KB5037240
+                                           [37]: KB5005699
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet 34
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.42
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim
+
+Nome do host:                              MARKETING03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Home
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   T-Gamer
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00326-10000-00000-AA328
+Data da instalaá∆o original:               02/02/2021, 16:11:30
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 09:09:12
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2904 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0203, 12/03/2019
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.319 MB
+Mem¢ria f°sica dispon°vel:                 6.997 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.951 MB
+Mem¢ria Virtual: Dispon°vel:               9.313 MB
+Mem¢ria Virtual: Em Uso:                   12.638 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\MARKETING03-PC
+Hotfix(es):                                37 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5028951
+                                           [03]: KB4562830
+                                           [04]: KB4580325
+                                           [05]: KB4598481
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5011067
+                                           [09]: KB5012170
+                                           [10]: KB5015684
+                                           [11]: KB5037768
+                                           [12]: KB5006753
+                                           [13]: KB5007273
+                                           [14]: KB5011352
+                                           [15]: KB5011651
+                                           [16]: KB5014032
+                                           [17]: KB5014035
+                                           [18]: KB5014671
+                                           [19]: KB5015895
+                                           [20]: KB5016705
+                                           [21]: KB5018506
+                                           [22]: KB5020372
+                                           [23]: KB5022924
+                                           [24]: KB5023794
+                                           [25]: KB5025315
+                                           [26]: KB5026879
+                                           [27]: KB5028318
+                                           [28]: KB5028380
+                                           [29]: KB5029709
+                                           [30]: KB5031539
+                                           [31]: KB5032392
+                                           [32]: KB5032907
+                                           [33]: KB5034224
+                                           [34]: KB5036447
+                                           [35]: KB5037018
+                                           [36]: KB5037240
+                                           [37]: KB5005699
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet 34
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.42
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim
+
+Nome do host:                              MARKETING03-PC
+Nome do sistema operacional:               Microsoft Windows 10 Home
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   T-Gamer
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00326-10000-00000-AA328
+Data da instalaá∆o original:               02/02/2021, 16:11:30
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 09:09:12
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2904 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0203, 12/03/2019
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      16.319 MB
+Mem¢ria f°sica dispon°vel:                 7.003 MB
+Mem¢ria Virtual: Tamanho M†ximo:           21.951 MB
+Mem¢ria Virtual: Dispon°vel:               9.309 MB
+Mem¢ria Virtual: Em Uso:                   12.642 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   ATIVA
+Servidor de Logon:                         \\MARKETING03-PC
+Hotfix(es):                                37 hotfix(es) instalado(s).
+                                           [01]: KB5037587
+                                           [02]: KB5028951
+                                           [03]: KB4562830
+                                           [04]: KB4580325
+                                           [05]: KB4598481
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5011067
+                                           [09]: KB5012170
+                                           [10]: KB5015684
+                                           [11]: KB5037768
+                                           [12]: KB5006753
+                                           [13]: KB5007273
+                                           [14]: KB5011352
+                                           [15]: KB5011651
+                                           [16]: KB5014032
+                                           [17]: KB5014035
+                                           [18]: KB5014671
+                                           [19]: KB5015895
+                                           [20]: KB5016705
+                                           [21]: KB5018506
+                                           [22]: KB5020372
+                                           [23]: KB5022924
+                                           [24]: KB5023794
+                                           [25]: KB5025315
+                                           [26]: KB5026879
+                                           [27]: KB5028318
+                                           [28]: KB5028380
+                                           [29]: KB5029709
+                                           [30]: KB5031539
+                                           [31]: KB5032392
+                                           [32]: KB5032907
+                                           [33]: KB5034224
+                                           [34]: KB5036447
+                                           [35]: KB5037018
+                                           [36]: KB5037240
+                                           [37]: KB5005699
+Placa(s) de Rede:                          2 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet 34
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.42
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

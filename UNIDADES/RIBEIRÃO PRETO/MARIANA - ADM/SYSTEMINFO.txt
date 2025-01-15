@@ -1,0 +1,57 @@
+
+Nome do host:                              COMERCIAL08-PC
+Nome do sistema operacional:               Microsoft Windows 7 Professional 
+Vers∆o do sistema operacional:             6.1.7601 Service Pack 1 compilaá∆o 7601
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00371-OEM-9373562-73522
+Data da instalaá∆o original:               21/05/2021, 18:11:05
+Tempo de Inicializaá∆o do Sistema:         16/05/2024, 06:57:53
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Vostro 270s  
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 58 Stepping 9 GenuineIntel ~1584 Mhz
+Vers∆o do BIOS:                            Dell Inc. A13, 23/05/2018
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      3.970 MB
+Mem¢ria f°sica dispon°vel:                 1.100 MB
+Mem¢ria Virtual: Tamanho M†ximo:           7.938 MB
+Mem¢ria Virtual: Dispon°vel:               3.293 MB
+Mem¢ria Virtual: Em Uso:                   4.645 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMERCIAL08-PC
+Hotfix(es):                                N/A
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Conex∆o local
+                                                 Status:          Hardware ausente
+                                           [02]: Dell Wireless 1506 802.11b/g/n (2.4GHz)
+                                                 Nome da conex∆o: Conex∆o de Rede sem Fio
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.192
+                                                 [02]: fe80::e8d1:5877:9cdc:c1ce
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Conex∆o local 2
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.111
+                                                 [02]: fe80::8118:553:c905:af90

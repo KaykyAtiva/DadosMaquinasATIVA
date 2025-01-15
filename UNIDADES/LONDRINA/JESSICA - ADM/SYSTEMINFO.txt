@@ -1,0 +1,55 @@
+
+Nome do host:                              ADMINISTRATIVO2
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   THAIS
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62953-38089-AAOEM
+Data da instalaá∆o original:               03/01/2023, 08:05:28
+Tempo de Inicializaá∆o do Sistema:         13/05/2024, 13:05:05
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3090
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.10.0, 02/10/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.907 MB
+Mem¢ria f°sica dispon°vel:                 1.610 MB
+Mem¢ria Virtual: Tamanho M†ximo:           12.771 MB
+Mem¢ria Virtual: Dispon°vel:               4.925 MB
+Mem¢ria Virtual: Em Uso:                   7.846 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\ADMINISTRATIVO2
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5012170
+                                           [03]: KB5034765
+                                           [04]: KB5034225
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.1.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.1.20
+                                                 [02]: fe80::160:e453:7ada:d27b
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

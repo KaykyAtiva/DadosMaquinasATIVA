@@ -1,0 +1,56 @@
+
+Nome do host:                              RH02-PC
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61402-00588-AAOEM
+Data da instalaá∆o original:               20/02/2024, 15:09:01
+Tempo de Inicializaá∆o do Sistema:         10/05/2024, 17:49:54
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Latitude 3540
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 186 Stepping 3 GenuineIntel ~1300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.9.1, 09/11/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.877 MB
+Mem¢ria f°sica dispon°vel:                 653 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.533 MB
+Mem¢ria Virtual: Dispon°vel:               4.348 MB
+Mem¢ria Virtual: Em Uso:                   10.185 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\RH02-PC
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5027397
+                                           [03]: KB5033055
+                                           [04]: KB5035853
+                                           [05]: KB5035967
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.186
+                                                 [02]: fe80::187c:6d24:1cfe:6fef
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

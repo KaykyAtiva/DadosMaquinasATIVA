@@ -1,0 +1,70 @@
+
+Nome do host:                              COMPRAS02
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ti
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00330-80202-26443-AA910
+Data da instalaá∆o original:               28/09/2023, 09:36:59
+Tempo de Inicializaá∆o do Sistema:         21/05/2024, 11:22:22
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 158 Stepping 11 GenuineIntel ~3600 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0418, 13/09/2018
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.055 MB
+Mem¢ria f°sica dispon°vel:                 3.959 MB
+Mem¢ria Virtual: Tamanho M†ximo:           11.127 MB
+Mem¢ria Virtual: Dispon°vel:               5.553 MB
+Mem¢ria Virtual: Em Uso:                   5.574 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMPRAS02
+Hotfix(es):                                15 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5030841
+                                           [03]: KB5011048
+                                           [04]: KB5011067
+                                           [05]: KB5015684
+                                           [06]: KB5020683
+                                           [07]: KB5026037
+                                           [08]: KB5034122
+                                           [09]: KB5014032
+                                           [10]: KB5016705
+                                           [11]: KB5029709
+                                           [12]: KB5030506
+                                           [13]: KB5031539
+                                           [14]: KB5032392
+                                           [15]: KB5032907
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.71
+                                                 [02]: fe80::109b:17a0:d992:3905
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.56
+                                                 [02]: fe80::93dc:19ae:9ad5:b9cf
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: N∆o
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

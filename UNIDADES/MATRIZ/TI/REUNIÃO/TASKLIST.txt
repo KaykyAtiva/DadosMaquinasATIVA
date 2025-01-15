@@ -1,0 +1,579 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           2  0.0  0.0      0     0 ?        S    May17   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    May17   0:00  \_ [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    May17   0:03  \_ [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/0]
+root          19  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/1]
+root          24  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/2]
+root          30  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/3]
+root          34  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/3]
+root          35  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/3]
+root          36  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/3]
+root          38  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/3:0H-events_highpri]
+root          42  0.0  0.0      0     0 ?        S    May17   0:00  \_ [kdevtmpfs]
+root          43  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-inet_]
+root          44  0.0  0.0      0     0 ?        S    May17   0:00  \_ [kauditd]
+root          45  0.0  0.0      0     0 ?        S    May17   0:00  \_ [khungtaskd]
+root          46  0.0  0.0      0     0 ?        S    May17   0:00  \_ [oom_reaper]
+root          47  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-write]
+root          48  0.0  0.0      0     0 ?        S    May17   0:01  \_ [kcompactd0]
+root          49  0.0  0.0      0     0 ?        SN   May17   0:00  \_ [ksmd]
+root          51  0.0  0.0      0     0 ?        SN   May17   0:01  \_ [khugepaged]
+root          52  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kinte]
+root          53  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kbloc]
+root          54  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-blkcg]
+root          57  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-tpm_d]
+root          58  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-edac-]
+root          59  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-devfr]
+root          60  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/1:1H-kblockd]
+root          61  0.0  0.0      0     0 ?        S    May17   0:01  \_ [kswapd0]
+root          67  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kthro]
+root          69  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-acpi_]
+root          71  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-mld]
+root          72  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ipv6_]
+root          77  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kstrp]
+root          81  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/u9:0-i915_flip]
+root         127  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/0:1H-kblockd]
+root         138  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/3:1H-kblockd]
+root         155  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/2:1H-kblockd]
+root         164  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ata_s]
+root         165  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_0]
+root         166  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         167  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_1]
+root         168  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         169  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_2]
+root         170  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         171  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_3]
+root         172  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         173  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_4]
+root         174  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         175  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_5]
+root         176  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         183  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ttm]
+root         184  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc0]
+root         185  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc1]
+root         186  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc2]
+root         187  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-uas]
+root         188  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_6]
+root         189  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         191  0.0  0.0      0     0 ?        S    May17   0:00  \_ [usb-storage]
+root         199  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/0:2H-kblockd]
+root         235  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda2-8]
+root         236  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         248  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda3-8]
+root         249  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         344  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root         376  0.0  0.0      0     0 ?        S    May17   0:00  \_ [watchdogd]
+root         446  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-cfg80]
+root         457  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-crypt]
+root         523  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda4-8]
+root         524  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         534  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda6-8]
+root         535  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         540  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda7-8]
+root         541  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         683  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root        7831  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root       18537  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/1:2-mm_percpu_wq]
+root       21953  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/2:1-events]
+root       26527  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/1:1-events]
+root       28004  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/0:2-events]
+root       30775  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/u8:3-flush-8:0]
+root       30787  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/u8:9-events_unbound]
+root       31040  0.0  0.0      0     0 ?        I    May20   0:00  \_ [kworker/3:2-cgroup_destroy]
+root       31101  0.0  0.0      0     0 ?        S    10:59   0:00  \_ [irq/29-mei_me]
+root       31633  0.0  0.0      0     0 ?        I<   11:00   0:00  \_ [kworker/u9:2-i915_flip]
+root       32381  0.0  0.0      0     0 ?        S    11:01   0:00  \_ [psimon]
+root       34296  0.0  0.0      0     0 ?        I    11:06   0:00  \_ [kworker/2:0-events]
+root       34813  0.0  0.0      0     0 ?        I    11:07   0:00  \_ [kworker/u8:0-flush-8:0]
+root       35417  0.0  0.0      0     0 ?        I    11:08   0:00  \_ [kworker/3:0-events]
+root       35716  0.0  0.0      0     0 ?        I    11:09   0:00  \_ [kworker/0:1-events]
+root       38139  0.0  0.0      0     0 ?        I    11:14   0:00  \_ [kworker/0:0-events]
+root       38394  0.0  0.0      0     0 ?        I    11:14   0:00  \_ [kworker/3:1-rcu_gp]
+root       38928  0.0  0.0      0     0 ?        I    11:15   0:00  \_ [kworker/u8:1-phy0]
+root       39109  0.0  0.0      0     0 ?        I    11:16   0:00  \_ [kworker/1:0-events]
+root       39299  0.0  0.0      0     0 ?        I    11:16   0:00  \_ [kworker/2:2-events]
+root       39536  0.0  0.0      0     0 ?        I    11:17   0:00  \_ [kworker/u8:2-events_unbound]
+root           1  0.0  0.3  23452 14012 ?        Ss   May17   0:07 /sbin/init
+root         293  0.0  0.4  68500 19248 ?        Ss   May17   0:02 /usr/lib/systemd/systemd-journald
+root         342  0.0  0.2  29420  7808 ?        Ss   May17   0:01 /usr/lib/systemd/systemd-udevd
+systemd+     617  0.0  0.1  92108  7496 ?        Ssl  May17   0:00 /usr/lib/systemd/systemd-timesyncd
+root         621  0.0  0.1 311420  7100 ?        Ssl  May17   0:00 /usr/libexec/accounts-daemon
+avahi        623  0.0  0.1   8776  4276 ?        Ss   May17   0:16 avahi-daemon: running [debian.local]
+avahi        647  0.0  0.0   8280   952 ?        S    May17   0:00  \_ avahi-daemon: chroot helper
+root         624  0.0  0.0   7056  2420 ?        Ss   May17   0:00 /usr/sbin/cron -f
+message+     625  0.0  0.1  12236  7120 ?        Ss   May17   0:10 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         629  0.0  0.1 303924  5712 ?        SLsl May17   0:00 /usr/libexec/low-memory-monitor
+polkitd      637  0.0  0.3 389400 12140 ?        Ssl  May17   0:02 /usr/lib/polkit-1/polkitd --no-debug
+root         638  0.0  0.1 311468  6724 ?        Ssl  May17   0:00 /usr/libexec/power-profiles-daemon
+root         639  0.0  0.1 307884  6340 ?        Ssl  May17   0:00 /usr/libexec/switcheroo-control
+root         642  0.0  0.2  19104  8684 ?        Ss   May17   0:00 /usr/lib/systemd/systemd-logind
+root         643  0.0  0.3 470716 13096 ?        Ssl  May17   0:03 /usr/libexec/udisks2/udisksd
+root         682  0.0  0.4 335188 19048 ?        Ssl  May17   0:10 /usr/sbin/NetworkManager --no-daemon
+root         686  0.0  0.2  18864 10852 ?        Ss   May17   0:01 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         701  0.0  0.2 318572 10488 ?        Ssl  May17   0:00 /usr/sbin/ModemManager
+mrtg         717  0.0  0.4  29436 15848 ?        Ss   May17   0:00 /usr/bin/perl -w /usr/bin/mrtg --daemon --fhs --user=mrtg
+root         743  0.0  0.0  17172  3784 ?        S    May17   0:00 /usr/sbin/xrdp-sesman
+root        1424  0.0  0.0  17172  3440 ?        S    May17   0:00  \_ /usr/sbin/xrdp-sesman
+edson.l+    1452  0.0  0.3 367800 14928 ?        Sl   May17   0:00      \_ /usr/libexec/gnome-session-binary
+edson.l+    1558  0.0  0.0   9480   732 ?        Ss   May17   0:00      |   \_ /usr/bin/ssh-agent /usr/bin/im-launch x-session-manager
+edson.l+    1453  0.0  5.1 524696 199292 ?       Sl   May17   4:25      \_ /usr/lib/xorg/Xorg :10 -auth .Xauthority -config xrdp/xorg.conf -noreset -nolisten tcp -logfile .xorgxrdp.%s.log
+edson.l+    1485  0.0  0.1  90792  5592 ?        Sl   May17   0:00      \_ /usr/sbin/xrdp-chansrv
+root         755  0.0  0.1  13272  7156 ?        Ss   May17   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         758  0.0  0.2 387100  9048 ?        Ssl  May17   0:00 /usr/sbin/gdm3
+root         766  0.0  0.2 239876  9116 ?        Sl   May17   0:00  \_ gdm-session-worker [pam/gdm-launch-environment]
+Debian-+     810  0.0  0.1 233752  5416 tty1     Ssl+ May17   0:00  |   \_ /usr/libexec/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+Debian-+     821  0.0  0.0   6384  2088 tty1     S+   May17   0:00  |       \_ dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+Debian-+     823  0.0  0.1   9736  5040 tty1     S+   May17   0:00  |           \_ dbus-daemon --nofork --print-address 4 --session
+Debian-+     824  0.0  0.4 593596 16492 tty1     Sl+  May17   0:00  |           \_ /usr/libexec/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+Debian-+     862  0.0  4.2 3942012 163608 tty1   Sl+  May17   0:43  |               \_ /usr/bin/gnome-shell
+Debian-+     917  0.0  1.7 621936 66948 tty1     Sl+  May17   0:00  |               |   \_ /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/112/.mutter-Xwaylandauth.X72QN2 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+Debian-+    1208  0.0  1.9 862092 74604 tty1     Sl+  May17   0:00  |               |   \_ /usr/libexec/mutter-x11-frames
+Debian-+    1209  0.0  0.2 460488 10084 tty1     Sl   May17   0:00  |               |   \_ ibus-daemon --panel disable -r --xim
+Debian-+    1222  0.0  0.1 234736  7020 tty1     Sl   May17   0:00  |               |       \_ /usr/libexec/ibus-memconf
+Debian-+    1223  0.0  0.6 416256 26328 tty1     Sl   May17   0:02  |               |       \_ /usr/libexec/ibus-extension-gtk3
+Debian-+    1253  0.0  0.1 234736  7084 tty1     Sl   May17   0:00  |               |       \_ /usr/libexec/ibus-engine-simple
+Debian-+     966  0.0  0.2 541920 11520 tty1     Sl+  May17   0:01  |               \_ /usr/libexec/gsd-sharing
+Debian-+     968  0.0  0.4 483120 18436 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-wacom
+Debian-+     970  0.0  0.4 410220 18788 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-color
+Debian-+     971  0.0  0.4 482144 17840 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-keyboard
+Debian-+     972  0.0  0.2 322300 11352 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-print-notifications
+Debian-+     973  0.0  0.1 529148  6664 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-rfkill
+Debian-+     974  0.0  0.2 457932  8096 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-smartcard
+Debian-+     975  0.0  0.3 430580 12204 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-datetime
+Debian-+     976  0.0  0.6 591504 23556 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-media-keys
+Debian-+     977  0.0  0.1 307628  6160 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-screensaver-proxy
+Debian-+     978  0.0  0.2 392032  9520 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-sound
+Debian-+     979  0.0  0.1 381908  6508 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-a11y-settings
+Debian-+     980  0.0  0.2 383480  8004 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-housekeeping
+Debian-+     981  0.0  0.5 520828 22340 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-power
+root       31646  0.0  0.2 240164  9404 ?        Sl   11:00   0:00  \_ gdm-session-worker [pam/gdm-password]
+edson.l+   31741  0.0  0.1 233752  5888 tty2     Ssl+ 11:00   0:00      \_ /usr/libexec/gdm-wayland-session /usr/bin/gnome-session
+edson.l+   31750  0.0  0.4 371192 16512 tty2     Sl+  11:00   0:00          \_ /usr/libexec/gnome-session-binary
+xrdp         765  0.0  0.0  14576  1904 ?        S    May17   0:00 /usr/sbin/xrdp
+xrdp       34791  6.4  0.9  60476 35496 ?        R    11:07   0:38  \_ /usr/sbin/xrdp
+Debian-+     774  0.0  0.3  21328 11684 ?        Ss   May17   0:01 /usr/lib/systemd/systemd --user
+Debian-+     775  0.0  0.0  21904  1920 ?        S    May17   0:00  \_ (sd-pam)
+Debian-+     806  0.0  0.3 112172 12080 ?        S<sl May17   0:01  \_ /usr/bin/pipewire
+Debian-+     807  0.0  0.1  95664  4948 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire -c filter-chain.conf
+Debian-+     808  0.0  0.4 478364 17060 ?        S<sl May17   0:03  \_ /usr/bin/wireplumber
+Debian-+     809  0.0  0.2 102188  9032 ?        S<sl May17   0:00  \_ /usr/bin/pipewire-pulse
+Debian-+     813  0.0  0.1   9312  4512 ?        Ss   May17   0:00  \_ /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rtkit        822  0.0  0.0  22824  3080 ?        SNsl May17   0:00 /usr/libexec/rtkit-daemon
+colord       873  0.0  0.3 318352 13464 ?        Ssl  May17   0:00 /usr/libexec/colord
+Debian-+     904  0.0  0.1 383572  7060 tty1     Sl+  May17   0:00 /usr/libexec/at-spi-bus-launcher
+Debian-+     910  0.0  0.1   9312  4436 tty1     S+   May17   0:00  \_ /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/112/at-spi/bus
+Debian-+     932  0.0  0.1 311140  6656 tty1     Sl+  May17   0:00 /usr/libexec/xdg-permission-store
+root         939  0.0  0.2 316916  9384 ?        Ssl  May17   0:00 /usr/libexec/upowerd
+Debian-+     951  0.0  0.6 2719248 25876 tty1    Sl+  May17   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+Debian-+     958  0.0  0.1 236452  7408 tty1     Sl+  May17   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+Debian-+    1039  0.0  0.3 415220 15128 tty1     Sl+  May17   0:00 /usr/libexec/gsd-printer
+Debian-+    1216  0.0  0.6 2653716 25736 tty1    Sl+  May17   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+Debian-+    1225  0.0  1.6 558604 65336 tty1     Sl   May17   0:00 /usr/libexec/ibus-x11 --kill-daemon
+Debian-+    1238  0.0  0.1 308544  7116 tty1     Sl+  May17   0:00 /usr/libexec/ibus-portal
+Debian-+    1331  0.0  0.1 230484  5512 tty1     Sl+  May17   0:00 /usr/libexec/dconf-service
+edson.l+    1431  0.0  0.3  21868 12076 ?        Ss   May17   0:01 /usr/lib/systemd/systemd --user
+edson.l+    1434  0.0  0.0  21904  1964 ?        S    May17   0:00  \_ (sd-pam)
+edson.l+    1450  0.0  0.3 113876 13424 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire
+edson.l+    1451  0.0  0.1  95664  5156 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire -c filter-chain.conf
+edson.l+    1457  0.0  0.4 479812 18132 ?        Ssl  May17   0:01  \_ /usr/bin/wireplumber
+edson.l+    1458  0.0  0.3 107868 12540 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire-pulse
+edson.l+    1464  0.0  0.1  10548  6168 ?        Ss   May17   0:01  \_ /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+edson.l+    1587  0.0  0.1 312372  7776 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfsd
+edson.l+    4865  0.0  0.2 533812  8824 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+edson.l+    4929  0.0  0.2 312592  8592 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-recent --spawner :1.15 /org/gtk/gvfs/exec_spaw/1
+edson.l+    8131  0.0  0.2 460516  8688 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-network --spawner :1.15 /org/gtk/gvfs/exec_spaw/2
+edson.l+    8140  0.0  0.6 606272 25108 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-smb-browse --spawner :1.15 /org/gtk/gvfs/exec_spaw/3
+edson.l+    8149  0.0  0.2 388688  8920 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-dnssd --spawner :1.15 /org/gtk/gvfs/exec_spaw/4
+edson.l+    1593  0.0  0.1 457804  6812 ?        Sl   May17   0:00  \_ /usr/libexec/gvfsd-fuse /run/user/1002/gvfs -f
+edson.l+    1605  0.0  0.1 308544  7224 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-portal
+edson.l+    1618  0.0  0.1 383332  7508 ?        Ssl  May17   0:00  \_ /usr/libexec/at-spi-bus-launcher
+edson.l+    1625  0.0  0.1   9444  4692 ?        S    May17   0:00  |   \_ /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1002/at-spi/bus_10.0
+edson.l+    1638  0.0  0.1 236428  7580 ?        Sl   May17   0:00  \_ /usr/libexec/at-spi2-registryd --use-gnome-session
+edson.l+    1658  0.0  0.1 608656  6792 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-document-portal
+root        1669  0.0  0.0   2496  1708 ?        Ss   May17   0:00  |   \_ fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1002/doc
+edson.l+    1662  0.0  0.1 311140  6444 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-permission-store
+edson.l+    1691  0.0  0.1 162936  6596 ?        Ssl  May17   0:00  \_ /usr/libexec/gcr-ssh-agent --base-dir /run/user/1002/gcr
+edson.l+    1692  0.0  0.2 388644  9504 ?        SLsl May17   0:00  \_ /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1002/keyring
+edson.l+    1693  0.0  0.1  89672  5092 ?        Ssl  May17   0:00  \_ /usr/libexec/gnome-session-ctl --monitor
+edson.l+    1710  0.0  0.4 593236 16816 ?        Ssl  May17   0:00  \_ /usr/libexec/gnome-session-binary --systemd-service --session=gnome
+edson.l+    1953  0.0  1.6 928256 65348 ?        Sl   May17   0:00  |   \_ /usr/libexec/evolution-data-server/evolution-alarm-notify
+edson.l+    1954  0.0  7.7 2638304 302680 ?      Sl   May17   0:48  |   \_ /usr/bin/gnome-software --gapplication-service
+edson.l+    1973  0.0  0.7 139168 29116 ?        Sl   May17   0:00  |   \_ /usr/bin/python3 /usr/bin/caffeine
+edson.l+    1987  0.0  0.1 305784  7304 ?        Sl   May17   0:00  |   \_ /usr/libexec/gsd-disk-utility-notify
+edson.l+    1756  0.3 11.5 5103960 449980 ?      Ssl  May17  22:41  \_ /usr/bin/gnome-shell
+edson.l+    1779  0.0  2.8 1488448 110548 ?      Sl   May17   0:08  |   \_ /usr/libexec/mutter-x11-frames
+edson.l+    8626  0.6 10.7 2135556 418608 ?      Sl   May17  45:24  |   \_ /usr/bin/gnome-system-monitor
+edson.l+    1808  0.0  0.4 655852 17452 ?        Sl   May17   0:00  \_ /usr/libexec/gnome-shell-calendar-server
+edson.l+    1837  0.0  0.1 230472  5764 ?        Ssl  May17   0:00  \_ /usr/libexec/dconf-service
+edson.l+    1843  0.0  1.0 1219964 39544 ?       Ssl  May17   0:00  \_ /usr/libexec/evolution-source-registry
+edson.l+    1844  0.0  0.3 574248 12936 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-udisks2-volume-monitor
+edson.l+    1860  0.0  0.1 308812  6380 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-gphoto2-volume-monitor
+edson.l+    1868  0.0  0.1 307848  6020 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-goa-volume-monitor
+edson.l+    1873  0.0  0.5 542424 20136 ?        Sl   May17   0:00  \_ /usr/libexec/goa-daemon
+edson.l+    1881  0.0  0.2 387316  8300 ?        Sl   May17   0:00  \_ /usr/libexec/goa-identity-service
+edson.l+    1888  0.0  0.1 307852  6136 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-mtp-volume-monitor
+edson.l+    1893  0.0  0.1 388908  7340 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-afc-volume-monitor
+edson.l+    1903  0.0  0.6 2661820 24796 ?       Sl   May17   0:00  \_ /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+edson.l+    1924  0.0  0.1 381668  6356 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-a11y-settings
+edson.l+    1927  0.0  0.5 411392 21148 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-color
+edson.l+    1930  0.0  0.2 430340 11248 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-datetime
+edson.l+    1931  0.0  0.1 456972  7476 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-housekeeping
+edson.l+    1935  0.0  0.5 483944 20224 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-keyboard
+edson.l+    1937  0.0  0.6 592688 25764 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-media-keys
+edson.l+    1939  0.0  0.6 522036 23552 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-power
+edson.l+    1941  0.0  0.2 322300 10644 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-print-notifications
+edson.l+    1945  0.0  0.1 455416  6140 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-rfkill
+edson.l+    1950  0.0  0.1 307628  5936 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-screensaver-proxy
+edson.l+    1952  0.0  0.2 541684 10692 ?        Ssl  May17   0:01  \_ /usr/libexec/gsd-sharing
+edson.l+    1956  0.0  0.1 457692  7496 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-smartcard
+edson.l+    1969  0.0  0.2 391924  8928 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-sound
+edson.l+    1971  0.0  0.1 530216  6636 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-usb-protection
+edson.l+    1972  0.0  0.5 410828 19976 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-wacom
+edson.l+    1975  0.0  0.5 411052 21980 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-xsettings
+edson.l+    2117  0.0  0.2  25124  8252 ?        Sl   May17   0:00  \_ pw-cli -m -d load-module libpipewire-module-xrdp sink.node.latency=2048 sink.stream.props={node.name=xrdp-sink} source.stream.props={node.name=xrdp-source}
+edson.l+    2131  0.0  0.3 415220 13844 ?        Sl   May17   0:00  \_ /usr/libexec/gsd-printer
+edson.l+    2148  0.0  0.6 2653620 23668 ?       Sl   May17   0:00  \_ /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+edson.l+    2211  0.0  0.7 714304 27608 ?        SNsl May17   0:01  \_ /usr/libexec/tracker-miner-fs-3
+edson.l+    2238  0.0  0.5 1365040 22176 ?       Ssl  May17   0:00  \_ /usr/libexec/evolution-calendar-factory
+edson.l+    2253  0.0  0.6 850580 27080 ?        Ssl  May17   0:00  \_ /usr/libexec/evolution-addressbook-factory
+edson.l+    2338  0.0  0.1 234508  5984 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfsd-metadata
+edson.l+    2421  0.0  0.5 410488 21436 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-desktop-portal-gtk
+edson.l+    2784  0.0  0.4 710664 16368 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-desktop-portal
+edson.l+    2789  0.0  2.2 1578456 86020 ?       Ssl  May17   0:01  \_ /usr/libexec/xdg-desktop-portal-gnome
+edson.l+    5100  0.0  3.2 1943884 127872 ?      Sl   May17   0:00  \_ /usr/bin/gnome-calendar --gapplication-service
+edson.l+    5163  0.0  1.3 696572 50932 ?        Ssl  May17   0:18  \_ /usr/libexec/gnome-terminal-server
+edson.l+    5243  0.0  0.1   9300  5320 pts/0    Ss+  May17   0:00  |   \_ bash
+edson.l+   15096  0.0  0.1   9312  5600 pts/2    Ss+  May17   0:00  |   \_ bash
+edson.l+   35538  0.0  0.1   9164  5248 pts/1    Ss   11:08   0:00  |   \_ bash
+root       38569  0.0  0.1   9600  4028 pts/1    S    11:15   0:00  |       \_ su -
+root       38633  0.0  0.1   5724  4864 pts/1    S    11:15   0:00  |           \_ -bash
+root       39551  0.0  0.1   5724  4092 pts/1    S+   11:17   0:00  |               \_ -bash
+root       39556  0.0  0.1   8016  4096 pts/1    R+   11:17   0:00  |                   \_ ps auxf
+edson.l+   35113  6.6 10.4 2395188 406716 ?      Sl   11:07   0:36  \_ /usr/bin/nautilus --gapplication-service
+edson.l+    1575  0.0  0.2 383584  9192 ?        Ssl  May17   0:10 /usr/bin/ibus-daemon --daemonize --xim
+edson.l+    1595  0.0  0.1 231348  6160 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-memconf
+edson.l+    1596  0.0  1.9 635480 77540 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-ui-gtk3
+edson.l+    1600  0.0  1.9 563164 76028 ?        Sl   May17   0:03  \_ /usr/libexec/ibus-extension-gtk3
+edson.l+    1672  0.0  0.1 231480  7160 ?        Sl   May17   0:02  \_ /usr/libexec/ibus-engine-simple
+edson.l+    1602  0.0  1.7 483476 68764 ?        Sl   May17   0:00 /usr/libexec/ibus-x11 --kill-daemon
+geoclue     1819  0.0  0.6 2003236 23680 ?       Ssl  May17   0:02 /usr/libexec/geoclue
+root        7834  0.0  0.2  14792  9960 ?        Ss   May17   0:00 /usr/sbin/openvpn --suppress-timestamps --nobind --config bi.ativa.conf
+root       31983  0.0  0.1   6280  4088 tty5     Ss   11:00   0:00 /bin/login -p --
+root       32387  0.0  0.1   5732  4992 tty5     S+   11:01   0:00  \_ -bash
+root       32231  0.0  1.0 476628 39792 ?        Ssl  11:01   0:00 /usr/libexec/fwupd/fwupd
+root       32346  0.0  0.2  21200 11392 ?        Ss   11:01   0:00 /usr/lib/systemd/systemd --user
+root       32351  0.0  0.0  21668  3332 ?        S    11:01   0:00  \_ (sd-pam)
+root       32522  0.0  0.2  28548 11588 ?        Ss   11:01   0:00 /usr/sbin/cupsd -l
+lp         32561  0.0  0.1  17012  6912 ?        S    11:01   0:00  \_ /usr/lib/cups/notifier/dbus dbus://
+root       32523  0.0  0.4 260064 18816 ?        Ssl  11:01   0:00 /usr/sbin/cups-browsed
+root       38955  0.0  0.5 374584 20420 ?        Ssl  11:15   0:00 /usr/libexec/packagekitd
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           2  0.0  0.0      0     0 ?        S    May17   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    May17   0:00  \_ [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    May17   0:00  \_ [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    May17   0:03  \_ [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/0]
+root          19  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/1]
+root          24  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/2]
+root          30  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    May17   0:00  \_ [cpuhp/3]
+root          34  0.0  0.0      0     0 ?        S    May17   0:00  \_ [idle_inject/3]
+root          35  0.0  0.0      0     0 ?        S    May17   0:00  \_ [migration/3]
+root          36  0.0  0.0      0     0 ?        S    May17   0:00  \_ [ksoftirqd/3]
+root          38  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/3:0H-events_highpri]
+root          42  0.0  0.0      0     0 ?        S    May17   0:00  \_ [kdevtmpfs]
+root          43  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-inet_]
+root          44  0.0  0.0      0     0 ?        S    May17   0:00  \_ [kauditd]
+root          45  0.0  0.0      0     0 ?        S    May17   0:00  \_ [khungtaskd]
+root          46  0.0  0.0      0     0 ?        S    May17   0:00  \_ [oom_reaper]
+root          47  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-write]
+root          48  0.0  0.0      0     0 ?        S    May17   0:01  \_ [kcompactd0]
+root          49  0.0  0.0      0     0 ?        SN   May17   0:00  \_ [ksmd]
+root          51  0.0  0.0      0     0 ?        SN   May17   0:01  \_ [khugepaged]
+root          52  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kinte]
+root          53  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kbloc]
+root          54  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-blkcg]
+root          57  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-tpm_d]
+root          58  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-edac-]
+root          59  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-devfr]
+root          60  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/1:1H-kblockd]
+root          61  0.0  0.0      0     0 ?        S    May17   0:01  \_ [kswapd0]
+root          67  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kthro]
+root          69  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-acpi_]
+root          71  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-mld]
+root          72  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ipv6_]
+root          77  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-kstrp]
+root          81  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/u9:0-i915_flip]
+root         127  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/0:1H-kblockd]
+root         138  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/3:1H-kblockd]
+root         155  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/2:1H-kblockd]
+root         164  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ata_s]
+root         165  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_0]
+root         166  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         167  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_1]
+root         168  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         169  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_2]
+root         170  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         171  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_3]
+root         172  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         173  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_4]
+root         174  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         175  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_5]
+root         176  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         183  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ttm]
+root         184  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc0]
+root         185  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc1]
+root         186  0.0  0.0      0     0 ?        S    May17   0:00  \_ [card0-crtc2]
+root         187  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-uas]
+root         188  0.0  0.0      0     0 ?        S    May17   0:00  \_ [scsi_eh_6]
+root         189  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-scsi_]
+root         191  0.0  0.0      0     0 ?        S    May17   0:00  \_ [usb-storage]
+root         199  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/0:2H-kblockd]
+root         235  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda2-8]
+root         236  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         248  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda3-8]
+root         249  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         344  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root         376  0.0  0.0      0     0 ?        S    May17   0:00  \_ [watchdogd]
+root         446  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-cfg80]
+root         457  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-crypt]
+root         523  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda4-8]
+root         524  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         534  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda6-8]
+root         535  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         540  0.0  0.0      0     0 ?        S    May17   0:00  \_ [jbd2/sda7-8]
+root         541  0.0  0.0      0     0 ?        I<   May17   0:00  \_ [kworker/R-ext4-]
+root         683  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root        7831  0.0  0.0      0     0 ?        S    May17   0:00  \_ [psimon]
+root       18537  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/1:2-events]
+root       21953  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/2:1-events]
+root       26527  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/1:1-events]
+root       28004  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/0:2-mld]
+root       30775  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/u8:3-flush-8:0]
+root       30787  0.0  0.0      0     0 ?        I    May17   0:00  \_ [kworker/u8:9-events_unbound]
+root       31040  0.0  0.0      0     0 ?        I    May20   0:00  \_ [kworker/3:2-cgroup_destroy]
+root       31101  0.0  0.0      0     0 ?        S    10:59   0:00  \_ [irq/29-mei_me]
+root       31633  0.0  0.0      0     0 ?        I<   11:00   0:00  \_ [kworker/u9:2-i915_flip]
+root       32381  0.0  0.0      0     0 ?        S    11:01   0:00  \_ [psimon]
+root       34296  0.0  0.0      0     0 ?        I    11:06   0:00  \_ [kworker/2:0-events]
+root       34813  0.0  0.0      0     0 ?        I    11:07   0:00  \_ [kworker/u8:0-flush-8:0]
+root       35417  0.0  0.0      0     0 ?        I    11:08   0:00  \_ [kworker/3:0-mm_percpu_wq]
+root       35716  0.0  0.0      0     0 ?        I    11:09   0:00  \_ [kworker/0:1-events]
+root       38139  0.0  0.0      0     0 ?        I    11:14   0:00  \_ [kworker/0:0-mm_percpu_wq]
+root       38394  0.0  0.0      0     0 ?        I    11:14   0:00  \_ [kworker/3:1-mm_percpu_wq]
+root       38928  0.0  0.0      0     0 ?        I    11:15   0:00  \_ [kworker/u8:1-phy0]
+root       39109  0.0  0.0      0     0 ?        I    11:16   0:00  \_ [kworker/1:0-events]
+root       39299  0.0  0.0      0     0 ?        I    11:16   0:00  \_ [kworker/2:2-events]
+root       39536  0.0  0.0      0     0 ?        I    11:17   0:00  \_ [kworker/u8:2-events_unbound]
+root           1  0.0  0.3  23452 14012 ?        Ss   May17   0:07 /sbin/init
+root         293  0.0  0.4  68500 19248 ?        Ss   May17   0:02 /usr/lib/systemd/systemd-journald
+root         342  0.0  0.2  29420  7808 ?        Ss   May17   0:01 /usr/lib/systemd/systemd-udevd
+systemd+     617  0.0  0.1  92108  7496 ?        Ssl  May17   0:00 /usr/lib/systemd/systemd-timesyncd
+root         621  0.0  0.1 311420  7100 ?        Ssl  May17   0:00 /usr/libexec/accounts-daemon
+avahi        623  0.0  0.1   8776  4276 ?        Ss   May17   0:16 avahi-daemon: running [debian.local]
+avahi        647  0.0  0.0   8280   952 ?        S    May17   0:00  \_ avahi-daemon: chroot helper
+root         624  0.0  0.0   7056  2420 ?        Ss   May17   0:00 /usr/sbin/cron -f
+message+     625  0.0  0.1  12236  7120 ?        Ss   May17   0:10 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         629  0.0  0.1 303924  5712 ?        SLsl May17   0:00 /usr/libexec/low-memory-monitor
+polkitd      637  0.0  0.3 389400 12140 ?        Ssl  May17   0:02 /usr/lib/polkit-1/polkitd --no-debug
+root         638  0.0  0.1 311468  6724 ?        Ssl  May17   0:00 /usr/libexec/power-profiles-daemon
+root         639  0.0  0.1 307884  6340 ?        Ssl  May17   0:00 /usr/libexec/switcheroo-control
+root         642  0.0  0.2  19104  8684 ?        Ss   May17   0:00 /usr/lib/systemd/systemd-logind
+root         643  0.0  0.3 470716 13096 ?        Ssl  May17   0:03 /usr/libexec/udisks2/udisksd
+root         682  0.0  0.4 335188 19048 ?        Ssl  May17   0:10 /usr/sbin/NetworkManager --no-daemon
+root         686  0.0  0.2  18864 10852 ?        Ss   May17   0:01 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         701  0.0  0.2 318572 10488 ?        Ssl  May17   0:00 /usr/sbin/ModemManager
+mrtg         717  0.0  0.4  29436 15848 ?        Ss   May17   0:00 /usr/bin/perl -w /usr/bin/mrtg --daemon --fhs --user=mrtg
+root         743  0.0  0.0  17172  3784 ?        S    May17   0:00 /usr/sbin/xrdp-sesman
+root        1424  0.0  0.0  17172  3440 ?        S    May17   0:00  \_ /usr/sbin/xrdp-sesman
+edson.l+    1452  0.0  0.3 367800 14928 ?        Sl   May17   0:00      \_ /usr/libexec/gnome-session-binary
+edson.l+    1558  0.0  0.0   9480   732 ?        Ss   May17   0:00      |   \_ /usr/bin/ssh-agent /usr/bin/im-launch x-session-manager
+edson.l+    1453  0.0  4.9 459160 191708 ?       Sl   May17   4:28      \_ /usr/lib/xorg/Xorg :10 -auth .Xauthority -config xrdp/xorg.conf -noreset -nolisten tcp -logfile .xorgxrdp.%s.log
+edson.l+    1485  0.0  0.1  90792  5592 ?        Sl   May17   0:00      \_ /usr/sbin/xrdp-chansrv
+root         755  0.0  0.1  13272  7156 ?        Ss   May17   0:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         758  0.0  0.2 387100  9048 ?        Ssl  May17   0:00 /usr/sbin/gdm3
+root         766  0.0  0.2 239876  9116 ?        Sl   May17   0:00  \_ gdm-session-worker [pam/gdm-launch-environment]
+Debian-+     810  0.0  0.1 233752  5416 tty1     Ssl+ May17   0:00  |   \_ /usr/libexec/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+Debian-+     821  0.0  0.0   6384  2088 tty1     S+   May17   0:00  |       \_ dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+Debian-+     823  0.0  0.1   9736  5040 tty1     S+   May17   0:00  |           \_ dbus-daemon --nofork --print-address 4 --session
+Debian-+     824  0.0  0.4 593596 16492 tty1     Sl+  May17   0:00  |           \_ /usr/libexec/gnome-session-binary --autostart /usr/share/gdm/greeter/autostart
+Debian-+     862  0.0  4.2 3942012 163604 tty1   Sl+  May17   0:43  |               \_ /usr/bin/gnome-shell
+Debian-+     917  0.0  1.7 621936 66948 tty1     Sl+  May17   0:00  |               |   \_ /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/112/.mutter-Xwaylandauth.X72QN2 -listenfd 4 -listenfd 5 -displayfd 6 -initfd 7 -byteswappedclients
+Debian-+    1208  0.0  1.9 862092 74604 tty1     Sl+  May17   0:00  |               |   \_ /usr/libexec/mutter-x11-frames
+Debian-+    1209  0.0  0.2 460488 10084 tty1     Sl   May17   0:00  |               |   \_ ibus-daemon --panel disable -r --xim
+Debian-+    1222  0.0  0.1 234736  7020 tty1     Sl   May17   0:00  |               |       \_ /usr/libexec/ibus-memconf
+Debian-+    1223  0.0  0.6 416256 26328 tty1     Sl   May17   0:02  |               |       \_ /usr/libexec/ibus-extension-gtk3
+Debian-+    1253  0.0  0.1 234736  7084 tty1     Sl   May17   0:00  |               |       \_ /usr/libexec/ibus-engine-simple
+Debian-+     966  0.0  0.2 541920 11520 tty1     Sl+  May17   0:01  |               \_ /usr/libexec/gsd-sharing
+Debian-+     968  0.0  0.4 483120 18436 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-wacom
+Debian-+     970  0.0  0.4 410220 18788 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-color
+Debian-+     971  0.0  0.4 482144 17840 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-keyboard
+Debian-+     972  0.0  0.2 322300 11352 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-print-notifications
+Debian-+     973  0.0  0.1 529148  6664 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-rfkill
+Debian-+     974  0.0  0.2 457932  8096 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-smartcard
+Debian-+     975  0.0  0.3 430580 12204 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-datetime
+Debian-+     976  0.0  0.6 591504 23556 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-media-keys
+Debian-+     977  0.0  0.1 307628  6160 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-screensaver-proxy
+Debian-+     978  0.0  0.2 392032  9520 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-sound
+Debian-+     979  0.0  0.1 381908  6508 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-a11y-settings
+Debian-+     980  0.0  0.2 383480  8004 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-housekeeping
+Debian-+     981  0.0  0.5 520828 22340 tty1     Sl+  May17   0:00  |               \_ /usr/libexec/gsd-power
+root       31646  0.0  0.2 240164  9404 ?        Sl   11:00   0:00  \_ gdm-session-worker [pam/gdm-password]
+edson.l+   31741  0.0  0.1 233752  5888 tty2     Ssl+ 11:00   0:00      \_ /usr/libexec/gdm-wayland-session /usr/bin/gnome-session
+edson.l+   31750  0.0  0.4 371192 16512 tty2     Sl+  11:00   0:00          \_ /usr/libexec/gnome-session-binary
+xrdp         765  0.0  0.0  14576  1904 ?        S    May17   0:00 /usr/sbin/xrdp
+xrdp       34791  6.3  0.9  60672 35496 ?        S    11:07   0:43  \_ /usr/sbin/xrdp
+Debian-+     774  0.0  0.3  21328 11684 ?        Ss   May17   0:01 /usr/lib/systemd/systemd --user
+Debian-+     775  0.0  0.0  21904  1920 ?        S    May17   0:00  \_ (sd-pam)
+Debian-+     806  0.0  0.3 112172 12080 ?        S<sl May17   0:01  \_ /usr/bin/pipewire
+Debian-+     807  0.0  0.1  95664  4948 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire -c filter-chain.conf
+Debian-+     808  0.0  0.4 478364 17060 ?        S<sl May17   0:03  \_ /usr/bin/wireplumber
+Debian-+     809  0.0  0.2 102188  9032 ?        S<sl May17   0:00  \_ /usr/bin/pipewire-pulse
+Debian-+     813  0.0  0.1   9312  4512 ?        Ss   May17   0:00  \_ /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rtkit        822  0.0  0.0  22824  3080 ?        SNsl May17   0:00 /usr/libexec/rtkit-daemon
+colord       873  0.0  0.3 318352 13464 ?        Ssl  May17   0:00 /usr/libexec/colord
+Debian-+     904  0.0  0.1 383572  7060 tty1     Sl+  May17   0:00 /usr/libexec/at-spi-bus-launcher
+Debian-+     910  0.0  0.1   9312  4436 tty1     S+   May17   0:00  \_ /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/112/at-spi/bus
+Debian-+     932  0.0  0.1 311140  6656 tty1     Sl+  May17   0:00 /usr/libexec/xdg-permission-store
+root         939  0.0  0.2 316916  9384 ?        Ssl  May17   0:00 /usr/libexec/upowerd
+Debian-+     951  0.0  0.6 2719248 25876 tty1    Sl+  May17   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+Debian-+     958  0.0  0.1 236452  7408 tty1     Sl+  May17   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+Debian-+    1039  0.0  0.3 415220 15128 tty1     Sl+  May17   0:00 /usr/libexec/gsd-printer
+Debian-+    1216  0.0  0.6 2653716 25736 tty1    Sl+  May17   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+Debian-+    1225  0.0  1.6 558604 65336 tty1     Sl   May17   0:00 /usr/libexec/ibus-x11 --kill-daemon
+Debian-+    1238  0.0  0.1 308544  7116 tty1     Sl+  May17   0:00 /usr/libexec/ibus-portal
+Debian-+    1331  0.0  0.1 230484  5512 tty1     Sl+  May17   0:00 /usr/libexec/dconf-service
+edson.l+    1431  0.0  0.3  21868 12076 ?        Ss   May17   0:01 /usr/lib/systemd/systemd --user
+edson.l+    1434  0.0  0.0  21904  1964 ?        S    May17   0:00  \_ (sd-pam)
+edson.l+    1450  0.0  0.3 113876 13424 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire
+edson.l+    1451  0.0  0.1  95664  5156 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire -c filter-chain.conf
+edson.l+    1457  0.0  0.4 479812 18132 ?        Ssl  May17   0:01  \_ /usr/bin/wireplumber
+edson.l+    1458  0.0  0.3 107868 12836 ?        Ssl  May17   0:00  \_ /usr/bin/pipewire-pulse
+edson.l+    1464  0.0  0.1  10548  6168 ?        Ss   May17   0:01  \_ /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+edson.l+    1587  0.0  0.1 312372  7776 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfsd
+edson.l+    4865  0.0  0.2 533812  8824 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+edson.l+    4929  0.0  0.2 312592  8592 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-recent --spawner :1.15 /org/gtk/gvfs/exec_spaw/1
+edson.l+    8131  0.0  0.2 460516  8688 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-network --spawner :1.15 /org/gtk/gvfs/exec_spaw/2
+edson.l+    8140  0.0  0.6 606272 25108 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-smb-browse --spawner :1.15 /org/gtk/gvfs/exec_spaw/3
+edson.l+    8149  0.0  0.2 388688  8920 ?        Sl   May17   0:00  |   \_ /usr/libexec/gvfsd-dnssd --spawner :1.15 /org/gtk/gvfs/exec_spaw/4
+edson.l+    1593  0.0  0.1 457804  6812 ?        Sl   May17   0:00  \_ /usr/libexec/gvfsd-fuse /run/user/1002/gvfs -f
+edson.l+    1605  0.0  0.1 308544  7224 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-portal
+edson.l+    1618  0.0  0.1 383332  7508 ?        Ssl  May17   0:00  \_ /usr/libexec/at-spi-bus-launcher
+edson.l+    1625  0.0  0.1   9444  4692 ?        S    May17   0:00  |   \_ /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1002/at-spi/bus_10.0
+edson.l+    1638  0.0  0.1 236428  7580 ?        Sl   May17   0:00  \_ /usr/libexec/at-spi2-registryd --use-gnome-session
+edson.l+    1658  0.0  0.1 608656  6792 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-document-portal
+root        1669  0.0  0.0   2496  1708 ?        Ss   May17   0:00  |   \_ fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1002/doc
+edson.l+    1662  0.0  0.1 311140  6444 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-permission-store
+edson.l+    1691  0.0  0.1 162936  6596 ?        Ssl  May17   0:00  \_ /usr/libexec/gcr-ssh-agent --base-dir /run/user/1002/gcr
+edson.l+    1692  0.0  0.2 388644  9504 ?        SLsl May17   0:00  \_ /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1002/keyring
+edson.l+    1693  0.0  0.1  89672  5092 ?        Ssl  May17   0:00  \_ /usr/libexec/gnome-session-ctl --monitor
+edson.l+    1710  0.0  0.4 593236 16816 ?        Ssl  May17   0:00  \_ /usr/libexec/gnome-session-binary --systemd-service --session=gnome
+edson.l+    1953  0.0  1.6 928256 65348 ?        Sl   May17   0:00  |   \_ /usr/libexec/evolution-data-server/evolution-alarm-notify
+edson.l+    1954  0.0  7.8 2638304 305240 ?      Sl   May17   0:48  |   \_ /usr/bin/gnome-software --gapplication-service
+edson.l+    1973  0.0  0.7 139168 29116 ?        Sl   May17   0:00  |   \_ /usr/bin/python3 /usr/bin/caffeine
+edson.l+    1987  0.0  0.1 305784  7304 ?        Sl   May17   0:00  |   \_ /usr/libexec/gsd-disk-utility-notify
+edson.l+    1756  0.3 11.5 5103960 449768 ?      Ssl  May17  22:52  \_ /usr/bin/gnome-shell
+edson.l+    1779  0.0  2.6 1422912 103600 ?      Sl   May17   0:08  |   \_ /usr/libexec/mutter-x11-frames
+edson.l+    8626  0.6 10.7 2135556 418608 ?      Sl   May17  45:43  |   \_ /usr/bin/gnome-system-monitor
+edson.l+    1808  0.0  0.4 655852 17452 ?        Sl   May17   0:00  \_ /usr/libexec/gnome-shell-calendar-server
+edson.l+    1837  0.0  0.1 230472  5764 ?        Ssl  May17   0:00  \_ /usr/libexec/dconf-service
+edson.l+    1843  0.0  1.0 1219964 39544 ?       Ssl  May17   0:00  \_ /usr/libexec/evolution-source-registry
+edson.l+    1844  0.0  0.3 574248 12936 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-udisks2-volume-monitor
+edson.l+    1860  0.0  0.1 308812  6380 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-gphoto2-volume-monitor
+edson.l+    1868  0.0  0.1 307848  6020 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-goa-volume-monitor
+edson.l+    1873  0.0  0.5 542424 20136 ?        Sl   May17   0:00  \_ /usr/libexec/goa-daemon
+edson.l+    1881  0.0  0.2 387316  8300 ?        Sl   May17   0:00  \_ /usr/libexec/goa-identity-service
+edson.l+    1888  0.0  0.1 307852  6136 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-mtp-volume-monitor
+edson.l+    1893  0.0  0.1 388908  7340 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfs-afc-volume-monitor
+edson.l+    1903  0.0  0.6 2661820 24796 ?       Sl   May17   0:00  \_ /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+edson.l+    1924  0.0  0.1 381668  6356 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-a11y-settings
+edson.l+    1927  0.0  0.5 411392 21148 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-color
+edson.l+    1930  0.0  0.2 430340 11248 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-datetime
+edson.l+    1931  0.0  0.1 456972  7476 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-housekeeping
+edson.l+    1935  0.0  0.5 483944 20224 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-keyboard
+edson.l+    1937  0.0  0.6 592688 25764 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-media-keys
+edson.l+    1939  0.0  0.6 522036 23552 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-power
+edson.l+    1941  0.0  0.2 322300 10644 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-print-notifications
+edson.l+    1945  0.0  0.1 455416  6140 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-rfkill
+edson.l+    1950  0.0  0.1 307628  5936 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-screensaver-proxy
+edson.l+    1952  0.0  0.2 541684 10692 ?        Ssl  May17   0:01  \_ /usr/libexec/gsd-sharing
+edson.l+    1956  0.0  0.1 457692  7496 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-smartcard
+edson.l+    1969  0.0  0.2 391924  8928 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-sound
+edson.l+    1971  0.0  0.1 530216  6636 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-usb-protection
+edson.l+    1972  0.0  0.5 410828 19976 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-wacom
+edson.l+    1975  0.0  0.5 411052 21980 ?        Ssl  May17   0:00  \_ /usr/libexec/gsd-xsettings
+edson.l+    2117  0.0  0.2  25124  8252 ?        Sl   May17   0:00  \_ pw-cli -m -d load-module libpipewire-module-xrdp sink.node.latency=2048 sink.stream.props={node.name=xrdp-sink} source.stream.props={node.name=xrdp-source}
+edson.l+    2131  0.0  0.3 415220 13844 ?        Sl   May17   0:00  \_ /usr/libexec/gsd-printer
+edson.l+    2148  0.0  0.6 2653620 23668 ?       Sl   May17   0:00  \_ /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+edson.l+    2211  0.0  0.7 714304 27608 ?        SNsl May17   0:01  \_ /usr/libexec/tracker-miner-fs-3
+edson.l+    2238  0.0  0.5 1365040 22176 ?       Ssl  May17   0:00  \_ /usr/libexec/evolution-calendar-factory
+edson.l+    2253  0.0  0.6 850580 27080 ?        Ssl  May17   0:00  \_ /usr/libexec/evolution-addressbook-factory
+edson.l+    2338  0.0  0.1 234508  5984 ?        Ssl  May17   0:00  \_ /usr/libexec/gvfsd-metadata
+edson.l+    2421  0.0  0.5 410488 21436 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-desktop-portal-gtk
+edson.l+    2784  0.0  0.4 710664 16368 ?        Ssl  May17   0:00  \_ /usr/libexec/xdg-desktop-portal
+edson.l+    2789  0.0  2.2 1578456 86020 ?       Ssl  May17   0:01  \_ /usr/libexec/xdg-desktop-portal-gnome
+edson.l+    5100  0.0  3.2 1943884 127872 ?      Sl   May17   0:00  \_ /usr/bin/gnome-calendar --gapplication-service
+edson.l+    5163  0.0  1.3 697404 51444 ?        Ssl  May17   0:19  \_ /usr/libexec/gnome-terminal-server
+edson.l+    5243  0.0  0.1   9300  5320 pts/0    Ss+  May17   0:00  |   \_ bash
+edson.l+   15096  0.0  0.1   9312  5600 pts/2    Ss+  May17   0:00  |   \_ bash
+edson.l+   35538  0.0  0.1   9164  5248 pts/1    Ss   11:08   0:00  |   \_ bash
+root       38569  0.0  0.1   9600  4028 pts/1    S    11:15   0:00  |   |   \_ su -
+root       38633  0.0  0.1   5724  4864 pts/1    S    11:15   0:00  |   |       \_ -bash
+root       40166  0.0  0.1   5724  4092 pts/1    S+   11:18   0:00  |   |           \_ -bash
+root       40170  0.0  0.1   8016  4224 pts/1    R+   11:18   0:00  |   |               \_ ps auxf
+edson.l+   39997  0.0  0.1   9052  5120 pts/3    Ss+  11:18   0:00  |   \_ bash
+edson.l+   35113  5.7 10.4 2395188 406716 ?      Sl   11:07   0:36  \_ /usr/bin/nautilus --gapplication-service
+edson.l+    1575  0.0  0.2 383584  9192 ?        Ssl  May17   0:10 /usr/bin/ibus-daemon --daemonize --xim
+edson.l+    1595  0.0  0.1 231348  6160 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-memconf
+edson.l+    1596  0.0  1.9 635480 77540 ?        Sl   May17   0:00  \_ /usr/libexec/ibus-ui-gtk3
+edson.l+    1600  0.0  1.9 563164 76028 ?        Sl   May17   0:04  \_ /usr/libexec/ibus-extension-gtk3
+edson.l+    1672  0.0  0.1 231480  7160 ?        Sl   May17   0:02  \_ /usr/libexec/ibus-engine-simple
+edson.l+    1602  0.0  1.7 483476 68764 ?        Sl   May17   0:00 /usr/libexec/ibus-x11 --kill-daemon
+geoclue     1819  0.0  0.6 2003236 23680 ?       Ssl  May17   0:02 /usr/libexec/geoclue
+root        7834  0.0  0.2  14792  9960 ?        Ss   May17   0:00 /usr/sbin/openvpn --suppress-timestamps --nobind --config bi.ativa.conf
+root       31983  0.0  0.1   6280  4088 tty5     Ss   11:00   0:00 /bin/login -p --
+root       32387  0.0  0.1   5732  4992 tty5     S+   11:01   0:00  \_ -bash
+root       32231  0.0  1.0 476628 39792 ?        Ssl  11:01   0:00 /usr/libexec/fwupd/fwupd
+root       32346  0.0  0.2  21200 11392 ?        Ss   11:01   0:00 /usr/lib/systemd/systemd --user
+root       32351  0.0  0.0  21668  3332 ?        S    11:01   0:00  \_ (sd-pam)
+root       32522  0.0  0.2  28548 11588 ?        Ss   11:01   0:00 /usr/sbin/cupsd -l
+lp         32561  0.0  0.1  17012  6912 ?        S    11:01   0:00  \_ /usr/lib/cups/notifier/dbus dbus://
+root       32523  0.0  0.4 260064 18816 ?        Ssl  11:01   0:00 /usr/sbin/cups-browsed
+root       38955  0.0  0.5 374584 20420 ?        Ssl  11:15   0:00 /usr/libexec/packagekitd

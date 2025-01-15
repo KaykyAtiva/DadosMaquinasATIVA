@@ -1,0 +1,60 @@
+
+Nome do host:                              VENDEDOR02
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   vendedor 02
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-62856-23258-AAOEM
+Data da instalaá∆o original:               11/07/2023, 07:59:43
+Tempo de Inicializaá∆o do Sistema:         23/05/2024, 08:01:43
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex 3080
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 165 Stepping 3 GenuineIntel ~2300 Mhz
+Vers∆o do BIOS:                            Dell Inc. 2.11.0, 09/04/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.939 MB
+Mem¢ria f°sica dispon°vel:                 1.444 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.083 MB
+Mem¢ria Virtual: Dispon°vel:               4.179 MB
+Mem¢ria Virtual: Em Uso:                   9.904 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\VENDEDOR02
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5034123
+                                           [03]: KB5032393
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [02]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.93
+                                                 [02]: fe80::1842:d29c:7c1f:f4fd
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.254
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.143
+                                                 [02]: fe80::2677:8eb9:939b:d23b
+                                                 [03]: 2804:45e8:565a:7dd1:e024:7ff:5a53:f07c
+                                                 [04]: 2804:45e8:565a:7dd1:4f2a:38e8:3a08:dbf3
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

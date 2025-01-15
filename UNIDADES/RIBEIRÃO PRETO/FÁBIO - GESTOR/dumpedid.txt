@@ -1,0 +1,62 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\CMN15E5\4&39434ba4&0&UID8388688
+Manufacture Week         : 9 / 2021
+ManufacturerID           : 44557 (0xAE0D)
+ProductID                : 5605 (0x15E5)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Image Size               : 34.4 X 19.3 cm (15.5 Inch)
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\PHL01EA\4&39434ba4&0&UID4145
+Monitor Name             : Philips FTV
+Manufacture Week         : 46 / 2018
+ManufacturerID           : 3137 (0x0C41)
+ProductID                : 490 (0x01EA)
+Serial Number (Numeric)  : 16843009 (0x01010101)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 48 - 62 Hz
+Horizontal Frequency     : 15 - 70 KHz
+Image Size               : 144.0 X 81.0 cm (65.0 Inch)
+Maximum Image Size       : 144 X 81 cm (65.0 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     640 X  480  60 Hz
+     800 X  600  60 Hz
+    1024 X  768  60 Hz
+    1280 X  800  60 Hz
+    1280 X  960  60 Hz
+    1440 X  900  60 Hz
+    1280 X 1024  60 Hz
+    1400 X 1050  60 Hz
+    1680 X 1050  60 Hz
+    1600 X 1200  60 Hz
+    1920 X 1080  60 Hz
+
+*****************************************************************

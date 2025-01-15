@@ -1,0 +1,90 @@
+
+Nome do host:                              MARKETING02-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    
+Identificaá∆o do produto:                  00331-20029-90433-AA163
+Data da instalaá∆o original:               14/01/2021, 13:24:58
+Tempo de Inicializaá∆o do Sistema:         10/05/2024, 09:09:51
+Fabricante do sistema:                     System manufacturer
+Modelo do sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2901 Mhz
+Vers∆o do BIOS:                            American Megatrends Inc. 0503, 23/12/2011
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.174 MB
+Mem¢ria f°sica dispon°vel:                 2.535 MB
+Mem¢ria Virtual: Tamanho M†ximo:           9.646 MB
+Mem¢ria Virtual: Dispon°vel:               2.017 MB
+Mem¢ria Virtual: Em Uso:                   7.629 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\MARKETING02-PC
+Hotfix(es):                                36 hotfix(es) instalado(s).
+                                           [01]: KB5033918
+                                           [02]: KB5030841
+                                           [03]: KB4562830
+                                           [04]: KB4570334
+                                           [05]: KB4577586
+                                           [06]: KB4580325
+                                           [07]: KB4586864
+                                           [08]: KB4598481
+                                           [09]: KB5000736
+                                           [10]: KB5011048
+                                           [11]: KB5011067
+                                           [12]: KB5012170
+                                           [13]: KB5015684
+                                           [14]: KB5034122
+                                           [15]: KB5006753
+                                           [16]: KB5007273
+                                           [17]: KB5011352
+                                           [18]: KB5011651
+                                           [19]: KB5014032
+                                           [20]: KB5014035
+                                           [21]: KB5014671
+                                           [22]: KB5015895
+                                           [23]: KB5016705
+                                           [24]: KB5018506
+                                           [25]: KB5020372
+                                           [26]: KB5022924
+                                           [27]: KB5023794
+                                           [28]: KB5025315
+                                           [29]: KB5026879
+                                           [30]: KB5028318
+                                           [31]: KB5028380
+                                           [32]: KB5029709
+                                           [33]: KB5031539
+                                           [34]: KB5032392
+                                           [35]: KB5032907
+                                           [36]: KB5005699
+Placa(s) de Rede:                          3 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GBE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.41
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.119
+                                                 [02]: fe80::ecd:177b:77f4:a489
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

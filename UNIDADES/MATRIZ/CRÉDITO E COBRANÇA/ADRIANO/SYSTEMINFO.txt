@@ -1,0 +1,63 @@
+
+Nome do host:                              NOTECOBRANCA
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61175-91382-AAOEM
+Data da instalaá∆o original:               31/10/2023, 16:42:15
+Tempo de Inicializaá∆o do Sistema:         28/03/2024, 18:14:29
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Latitude 3520
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1382 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.32.1, 04/10/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.927 MB
+Mem¢ria f°sica dispon°vel:                 839 MB
+Mem¢ria Virtual: Tamanho M†ximo:           27.675 MB
+Mem¢ria Virtual: Dispon°vel:               13.139 MB
+Mem¢ria Virtual: Em Uso:                   14.536 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\NOTECOBRANCA
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5031274
+                                           [03]: KB5032381
+                                           [04]: KB5034123
+                                           [05]: KB5032393
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Intel(R) Wi-Fi 6E AX210 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.149
+                                                 [02]: fe80::4f7:93bb:feee:3ba7
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.3
+                                                 [02]: fe80::974d:c508:4d89:8f71
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

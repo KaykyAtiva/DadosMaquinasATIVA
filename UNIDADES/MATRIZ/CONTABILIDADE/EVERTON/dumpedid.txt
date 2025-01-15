@@ -1,0 +1,238 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\AOC2050\4&fe8a6cd&0&UID49
+Monitor Name             : 2050W
+Serial Number            : DTK3CIA006979
+Manufacture Week         : 51 / 2013
+ManufacturerID           : 58117 (0xE305)
+ProductID                : 8272 (0x2050)
+Serial Number (Numeric)  : 6979 (0x00001B43)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 50 - 76 Hz
+Horizontal Frequency     : 30 - 83 KHz
+Maximum Image Size       : 43 X 24 cm (19.4 Inch)
+Maximum Resolution       : 1600 X 900
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  56 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1600 X  900  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\AUO4599\4&fe8a6cd&0&UID8388688
+Manufacture Week         : 0 / 2021
+ManufacturerID           : 44806 (0xAF06)
+ProductID                : 17817 (0x4599)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Image Size               : 34.4 X 19.4 cm (15.5 Inch)
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\MS_0001\4&fe8a6cd&0&UID2134140
+Manufacture Week         : 0 / 2002
+ManufacturerID           : 32566 (0x7F36)
+ProductID                : 1 (0x0001)
+Serial Number (Numeric)  : 1 (0x00000001)
+EDID Version             : 1.4
+Display Gamma            : 3.55
+Vertical Frequency       : 60 - 0 Hz
+Horizontal Frequency     : 244 - 0 KHz
+Maximum Resolution       : 1600 X 900
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : Yes
+Support Default GTF      : Yes
+Digital                  : Yes
+
+Supported Display Modes  :
+    1600 X  900  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\NCP0057\4&fe8a6cd&0&UID8388688
+Manufacture Week         : 17 / 2020
+ManufacturerID           : 28728 (0x7038)
+ProductID                : 87 (0x0057)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Image Size               : 34.4 X 19.4 cm (15.5 Inch)
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM7032\4&fe8a6cd&0&UID4145
+Monitor Name             : SAMSUNG
+Manufacture Week         : 1 / 2020
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 28722 (0x7032)
+Serial Number (Numeric)  : 16780800 (0x01000E00)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 24 - 75 Hz
+Horizontal Frequency     : 15 - 81 KHz
+Image Size               : 121.0 X 68.0 cm (54.6 Inch)
+Maximum Image Size       : 95 X 54 cm (43.0 Inch)
+Maximum Resolution       : 1920 X 1080
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1152 X  864  75 Hz
+    1280 X  800  60 Hz
+    1440 X  900  60 Hz
+    1280 X 1024  60 Hz
+    1280 X 1024  75 Hz
+    1600 X  900  60 Hz
+    1680 X 1050  60 Hz
+    1920 X 1080  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM7048\4&fe8a6cd&0&UID4145
+Monitor Name             : SAMSUNG
+Manufacture Week         : 1 / 2020
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 28744 (0x7048)
+Serial Number (Numeric)  : 16780800 (0x01000E00)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 24 - 75 Hz
+Horizontal Frequency     : 15 - 68 KHz
+Image Size               : 52.2 X 29.3 cm (23.6 Inch)
+Maximum Image Size       : 70 X 39 cm (31.5 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1366 X  768  60 Hz
+
+*****************************************************************
+
+*****************************************************************
+Active                   : No
+Registry Key             : DISPLAY\SAM7048\4&fe8a6cd&0&UID49
+Monitor Name             : SAMSUNG
+Manufacture Week         : 1 / 2020
+ManufacturerID           : 11596 (0x2D4C)
+ProductID                : 28744 (0x7048)
+Serial Number (Numeric)  : 16780800 (0x01000E00)
+EDID Version             : 1.3
+Display Gamma            : 2.20
+Vertical Frequency       : 24 - 75 Hz
+Horizontal Frequency     : 15 - 68 KHz
+Image Size               : 52.2 X 29.3 cm (23.6 Inch)
+Maximum Image Size       : 70 X 39 cm (31.5 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+     720 X  400  70 Hz
+     640 X  480  60 Hz
+     640 X  480  67 Hz
+     640 X  480  72 Hz
+     640 X  480  75 Hz
+     800 X  600  60 Hz
+     800 X  600  72 Hz
+     800 X  600  75 Hz
+     832 X  624  75 Hz
+    1024 X  768  60 Hz
+    1024 X  768  70 Hz
+    1024 X  768  75 Hz
+    1280 X  720  60 Hz
+    1366 X  768  60 Hz
+
+*****************************************************************

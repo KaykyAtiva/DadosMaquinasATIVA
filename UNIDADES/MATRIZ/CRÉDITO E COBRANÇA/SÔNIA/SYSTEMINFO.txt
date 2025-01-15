@@ -1,0 +1,63 @@
+
+Nome do host:                              FATURAMENTO02
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61168-01689-AAOEM
+Data da instalaá∆o original:               01/02/2024, 21:23:43
+Tempo de Inicializaá∆o do Sistema:         20/05/2024, 07:52:16
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex Micro Plus 7010
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.10.0, 08/11/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 691 MB
+Mem¢ria Virtual: Tamanho M†ximo:           13.257 MB
+Mem¢ria Virtual: Dispon°vel:               2.008 MB
+Mem¢ria Virtual: Em Uso:                   11.249 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\FATURAMENTO02
+Hotfix(es):                                5 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5031274
+                                           [03]: KB5033055
+                                           [04]: KB5034204
+                                           [05]: KB5034225
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Intel(R) Ethernet Connection (17) I219-LM
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.89
+                                                 [02]: fe80::9e96:1cd9:a0cf:5984
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.25
+                                                 [02]: fe80::7160:e8cd:9f31:51f7
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

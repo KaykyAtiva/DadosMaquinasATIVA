@@ -1,0 +1,61 @@
+
+Nome do host:                              DESKTOP-7CFCVK2
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61518-51477-AAOEM
+Data da instalaá∆o original:               16/04/2024, 15:09:18
+Tempo de Inicializaá∆o do Sistema:         16/05/2024, 08:10:24
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex Micro 7010
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.13.1, 11/03/2024
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 364 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.281 MB
+Mem¢ria Virtual: Dispon°vel:               2.119 MB
+Mem¢ria Virtual: Em Uso:                   12.162 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-7CFCVK2
+Hotfix(es):                                6 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5027397
+                                           [03]: KB5036212
+                                           [04]: KB5037771
+                                           [05]: KB5037020
+                                           [06]: KB5037663
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [02]: Intel(R) Ethernet Connection (17) I219-LM
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.106
+                                                 [02]: fe80::ec88:92a1:146d:c7af
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.106
+                                                 [02]: fe80::aaa:825a:e853:57b5
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

@@ -1,0 +1,64 @@
+
+Nome do host:                              RH05
+Nome do sistema operacional:               Microsoft Windows 11 Home Single Language
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00327-30968-80184-AAOEM
+Data da instalaá∆o original:               15/11/2023, 02:13:07
+Tempo de Inicializaá∆o do Sistema:         30/04/2024, 08:12:05
+Fabricante do sistema:                     LENOVO
+Modelo do sistema:                         82DJ
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 126 Stepping 5 GenuineIntel ~991 Mhz
+Vers∆o do BIOS:                            LENOVO DKCN54WW, 27/01/2022
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.987 MB
+Mem¢ria f°sica dispon°vel:                 976 MB
+Mem¢ria Virtual: Tamanho M†ximo:           11.934 MB
+Mem¢ria Virtual: Dispon°vel:               2.195 MB
+Mem¢ria Virtual: Em Uso:                   9.739 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\RH05
+Hotfix(es):                                6 hotfix(es) instalado(s).
+                                           [01]: KB5036620
+                                           [02]: KB5037591
+                                           [03]: KB5027397
+                                           [04]: KB5037771
+                                           [05]: KB5037020
+                                           [06]: KB5037663
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wireless-AC 9462
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.80.44
+                                                 [02]: fe80::181a:8ac2:ec24:f62c
+                                           [02]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [03]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: Conex∆o Local
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.130
+                                                 [02]: fe80::6ed6:a28d:e51c:e2eb
+                                           [04]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

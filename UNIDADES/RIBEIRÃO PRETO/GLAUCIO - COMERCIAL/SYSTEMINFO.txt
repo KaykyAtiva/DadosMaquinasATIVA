@@ -1,0 +1,89 @@
+
+Nome do host:                              COMERCIAL01-PC
+Nome do sistema operacional:               Microsoft Windows 10 Pro
+Vers∆o do sistema operacional:             10.0.19045 N/A compilaá∆o 19045
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   N/A
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-50000-00000-AAOEM
+Data da instalaá∆o original:               03/08/2021, 11:24:47
+Tempo de Inicializaá∆o do Sistema:         14/05/2024, 09:39:08
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Inspiron 3647
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3400 Mhz
+Vers∆o do BIOS:                            Dell Inc. A04, 03/04/2014
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      8.109 MB
+Mem¢ria f°sica dispon°vel:                 692 MB
+Mem¢ria Virtual: Tamanho M†ximo:           13.485 MB
+Mem¢ria Virtual: Dispon°vel:               3.876 MB
+Mem¢ria Virtual: Em Uso:                   9.609 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\COMERCIAL01-PC
+Hotfix(es):                                32 hotfix(es) instalado(s).
+                                           [01]: KB5034466
+                                           [02]: KB5028951
+                                           [03]: KB5000736
+                                           [04]: KB5003791
+                                           [05]: KB5011048
+                                           [06]: KB5011067
+                                           [07]: KB5012170
+                                           [08]: KB5015684
+                                           [09]: KB5034122
+                                           [10]: KB5006753
+                                           [11]: KB5007273
+                                           [12]: KB5009636
+                                           [13]: KB5011352
+                                           [14]: KB5011651
+                                           [15]: KB5014032
+                                           [16]: KB5014035
+                                           [17]: KB5014671
+                                           [18]: KB5015895
+                                           [19]: KB5016705
+                                           [20]: KB5018506
+                                           [21]: KB5020372
+                                           [22]: KB5022924
+                                           [23]: KB5023794
+                                           [24]: KB5025315
+                                           [25]: KB5026879
+                                           [26]: KB5028318
+                                           [27]: KB5028380
+                                           [28]: KB5029709
+                                           [29]: KB5031539
+                                           [30]: KB5032392
+                                           [31]: KB5032907
+                                           [32]: KB5005699
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [02]: Dell Wireless 1705 802.11b/g/n (2.4GHZ)
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.31.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.31.208
+                                                 [02]: fe80::960d:e2a7:f4aa:96a3
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 Status:          M°dia desconectada
+Requisitos do Hyper-V:                     Extens∆o de Modo de Monitor VM: Sim
+                                           Virtualizaá∆o Habilitada no Firmware: Sim
+                                           Convers∆o de Endereáos de Segundo N°vel: Sim
+                                           Prevená∆o de Execuá∆o de Dados Dispon°vel: Sim

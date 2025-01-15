@@ -1,0 +1,61 @@
+
+Nome do host:                              CONTABIL01
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22631 N/A compilaá∆o 22631
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   N/A
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61168-01690-AAOEM
+Data da instalaá∆o original:               16/11/2023, 08:28:57
+Tempo de Inicializaá∆o do Sistema:         17/05/2024, 07:54:36
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         OptiPlex Micro Plus 7010
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 191 Stepping 2 GenuineIntel ~1600 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.8.0, 12/09/2023
+Pasta do Windows:                          C:\WINDOWS
+Pasta do sistema:                          C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.881 MB
+Mem¢ria f°sica dispon°vel:                 485 MB
+Mem¢ria Virtual: Tamanho M†ximo:           14.951 MB
+Mem¢ria Virtual: Dispon°vel:               2.178 MB
+Mem¢ria Virtual: Em Uso:                   12.773 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\CONTABIL01
+Hotfix(es):                                6 hotfix(es) instalado(s).
+                                           [01]: KB5033920
+                                           [02]: KB5027397
+                                           [03]: KB5031274
+                                           [04]: KB5032381
+                                           [05]: KB5034204
+                                           [06]: KB5034225
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Intel(R) Ethernet Connection (17) I219-LM
+                                                 Nome da conex∆o: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.80.1
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.81.131
+                                                 [02]: fe80::1b51:bdb7:be6:e01f
+                                           [02]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 Status:          M°dia desconectada
+                                           [03]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.254
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.45
+                                                 [02]: fe80::10be:8c0b:10ca:cbcb
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

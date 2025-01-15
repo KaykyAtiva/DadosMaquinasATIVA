@@ -1,0 +1,25 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\AUO81EC\4&4f8d350&0&UID8388688
+Manufacture Week         : 0 / 2018
+ManufacturerID           : 44806 (0xAF06)
+ProductID                : 33260 (0x81EC)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : Yes
+Digital                  : Yes
+
+Supported Display Modes  :
+    1366 X  768  60 Hz
+
+*****************************************************************

@@ -1,0 +1,64 @@
+
+Nome do host:                              NOTEARAC
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.22621 N/A compilaá∆o 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do SO:                        Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   Ativa
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00355-61113-14358-AAOEM
+Data da instalaá∆o original:               21/09/2023, 09:18:54
+Tempo de Inicializaá∆o do Sistema:         29/04/2024, 10:19:16
+Fabricante do sistema:                     Dell Inc.
+Modelo do sistema:                         Latitude 3520
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 140 Stepping 1 GenuineIntel ~1382 Mhz
+Vers∆o do BIOS:                            Dell Inc. 1.32.1, 04/10/2023
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      7.927 MB
+Mem¢ria f°sica dispon°vel:                 331 MB
+Mem¢ria Virtual: Tamanho M†ximo:           22.775 MB
+Mem¢ria Virtual: Dispon°vel:               5.021 MB
+Mem¢ria Virtual: Em Uso:                   17.754 MB
+Local(is) de arquivo de paginaá∆o:         C:\pagefile.sys
+Dom°nio:                                   WORKGROUP
+Servidor de Logon:                         \\NOTEARAC
+Hotfix(es):                                4 hotfix(es) instalado(s).
+                                           [01]: KB5034467
+                                           [02]: KB5029517
+                                           [03]: KB5034765
+                                           [04]: KB5034225
+Placa(s) de Rede:                          5 NIC(s) instalado(s).
+                                           [01]: Intel(R) Wi-Fi 6E AX210 160MHz
+                                                 Nome da conex∆o: Wi-Fi
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.0.254
+                                                 Endereáo(es) IP
+                                                 [01]: 192.168.0.105
+                                                 [02]: fe80::623b:6779:27a6:f5f0
+                                                 [03]: 2804:45e8:565a:7dd1:1858:7c4e:52e1:272
+                                                 [04]: 2804:45e8:565a:7dd1:f4d6:8dc1:ed25:5607
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nome da conex∆o: Ethernet
+                                                 Status:          M°dia desconectada
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nome da conex∆o: Conex∆o de Rede Bluetooth
+                                                 Status:          M°dia desconectada
+                                           [04]: Wintun Userspace Tunnel
+                                                 Nome da conex∆o: OpenVPN Wintun
+                                                 Status:          M°dia desconectada
+                                           [05]: TAP-Windows Adapter V9
+                                                 Nome da conex∆o: OpenVPN TAP-Windows6
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   10.100.230.0
+                                                 Endereáo(es) IP
+                                                 [01]: 10.100.230.92
+                                                 [02]: fe80::8750:109f:952e:c025
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.

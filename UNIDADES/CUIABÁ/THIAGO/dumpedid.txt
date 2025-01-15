@@ -1,0 +1,25 @@
+DumpEDID v1.07
+Copyright (c) 2006 - 2018 Nir Sofer
+Web site: http://www.nirsoft.net
+
+*****************************************************************
+Active                   : Yes
+Registry Key             : DISPLAY\BOE0757\4&a43a421&0&UID8388688
+Manufacture Week         : 1 / 2017
+ManufacturerID           : 58633 (0xE509)
+ProductID                : 1879 (0x0757)
+Serial Number (Numeric)  : 0 (0x00000000)
+EDID Version             : 1.4
+Display Gamma            : 2.20
+Maximum Image Size       : 34 X 19 cm (15.3 Inch)
+Maximum Resolution       : 1366 X 768
+Support Standby Mode     : No
+Support Suspend Mode     : No
+Support Low-Power Mode   : No
+Support Default GTF      : No
+Digital                  : Yes
+
+Supported Display Modes  :
+    1366 X  768  60 Hz
+
+*****************************************************************
