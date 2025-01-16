@@ -1,24 +1,46 @@
 from ExtrairInfo import extrair_informacoes
+import os
+caminho_base = os.path.join("C:\\", "UNIDADES", "UNIDADES")
 
-caminho_base = "C:\\UNIDADES\\UNIDADES\\MATRIZ\\ATIVO FIXO\\LUIS"
-
-arquivos = ["SYSTEMINFO.txt", "IPCONFIG.txt", "DISK.txt", "MEM.txt", "CPU.txt", "dumpedid.txt", "MOUSE E TECLADO.txt"]
+arquivos = ["systeminfo.txt", "ipconfig.txt", "disk.txt", "mem.txt", "cpu.txt", "dumpedid.txt", "mouse e teclado.txt"]
 
 # Lista para armazenar as informações de todos os arquivos
-dados_completos = []
-
-for nome_arquivo in arquivos:
-    caminho_arquivo = f"{caminho_base}\\{nome_arquivo}"
-    dados = extrair_informacoes(caminho_arquivo)
-    dados_completos.append((nome_arquivo, dados))
-
-
-for arquivo, dados in dados_completos:
-    print(f"Arquivo: {arquivo}")
-    for dado in dados:
-        print(dado)
-    print("-" * 50)
 
 
 
+def caminhar(caminho):
+    dados_completos = []
+    old_folder = ""
 
+    with open("Computadores.csv", "w", encoding="utf-8") as fd:
+        for root, subfolders, files in os.walk(caminho) :
+
+            if old_folder and root != old_folder:
+                fd.write(old_folder + ';' + ';'.join(dados_completos) + '\n')
+                dados_completos = []
+            old_folder = root
+
+            for nome_arquivo in files:
+                if "REUNIÃO" in root or "CELULARES" in root or nome_arquivo.lower() not in arquivos:
+                    continue
+
+                # Caminho Arquivo
+                caminho_arquivo = os.path.join(root, nome_arquivo)
+                print(caminho_arquivo)
+
+
+                # Verificação se o arquivo existe
+                if os.path.exists(caminho_arquivo):
+
+                    dados = extrair_informacoes(caminho_arquivo)
+                    dados_completos.extend(dados)
+
+                    for dado in dados:
+                        print(dado)
+                    print("-" * 50)
+                else:
+                    pass
+
+
+if __name__ == "__main__":
+    caminhar(caminho_base)
