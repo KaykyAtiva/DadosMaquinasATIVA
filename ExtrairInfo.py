@@ -56,7 +56,7 @@ def extrair_informacoes(caminho_arquivo):
             regex_ip = r'IPv4.*:(.*)'
 
             mac = cn.capturar_nulo(re.search(regex_mac, texto))
-            informacoes.append(f"MAC: {mac.group(1).strip() if mac and mac.group(1).strip() != '' else 'N/A'}")
+            informacoes.append(f"{mac.group(1).strip() if mac and mac.group(1).strip() != '' else 'N/A'}")
 
             ip = cn.capturar_nulo(re.search(regex_ip, texto))
             informacoes.append(f"{ip.group(1).strip() if ip and ip.group(1).strip() != '' else  'N/A' }")
@@ -67,7 +67,7 @@ def extrair_informacoes(caminho_arquivo):
         if "DISK.txt" in caminho_arquivo:
             regex_disk = r'\n\s*(.*)'
             disk = cn.capturar_nulo(re.search(regex_disk, texto, re.DOTALL))
-            informacoes.append(f"DISCO RIGIDO: {disk.group(1).replace(
+            informacoes.append(f"{disk.group(1).replace(
                 '\n', '').strip() if disk and disk.group(1).strip() != '' else 'N/A'}")
         else:
             pass
@@ -76,20 +76,21 @@ def extrair_informacoes(caminho_arquivo):
             regex_ram = r"^.*\n(\d*) *(\d*) *\w* \d *([\w-]*) *(\w*).*$"
             ram = cn.capturar_nulo(re.search(regex_ram, texto, re.MULTILINE))
             informacoes.append(
-                f"RAM: {ram.group(1).strip() if ram and ram.group(
-                    1).strip() != '' else 'N/A'} Kbs | "
-                f"Serial: {ram.group(4).strip() if ram and ram.group(
-                    4).strip() != '' else 'N/A'} | "
-                f"Frequência: {ram.group(2).strip() if ram and ram.group(
-                    2).strip() != '' else 'N/A'}"
+                f"{ram.group(1).strip() if ram and ram.group(
+                    1).strip() != '' else 'N/A'}"
             )
+            informacoes.append(f"{ram.group(4).strip() if ram and ram.group(
+                    4).strip() != '' else 'N/A'} | ")
+            informacoes.append(f"{ram.group(2).strip() if ram and ram.group(
+                    2).strip() != '' else 'N/A'}")
+
         else:
             pass
 
         if "CPU.txt" in caminho_arquivo:
             regex_cpu = r"(\d+)\s+(\d+)\s+(.+)\s+(\d+)\s+(.+)\s+(\d+)"
             cpu = cn.capturar_nulo(re.search(regex_cpu, texto))
-            informacoes.append(f"Nome do Processador: {cpu.group(
+            informacoes.append(f"{cpu.group(
                 3).strip() if cpu and cpu.group(3).strip() != '' else 'N/A'}")
         else:
             pass
@@ -99,12 +100,12 @@ def extrair_informacoes(caminho_arquivo):
             regex_resolucao_heartz = r"Display.Modes.*\s*(...........)..(.*)"
 
             monitor = cn.capturar_nulo(re.search(regex_monitor, texto))
-            informacoes.append(f"Registry Key: {monitor.group(1).strip(
+            informacoes.append(f"{monitor.group(1).strip(
             ) if monitor and monitor.group(1).strip() != '' else 'N/A'}")
 
             resolucao_heartz = cn.capturar_nulo(
                 re.search(regex_resolucao_heartz, texto))
-            informacoes.append(f"Resolução: {resolucao_heartz.group(1).strip(
+            informacoes.append(f"{resolucao_heartz.group(1).strip(
             ) if resolucao_heartz and resolucao_heartz.group(1).strip() != '' else 'N/A'}")
         else:
             pass

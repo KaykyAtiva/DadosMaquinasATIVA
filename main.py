@@ -15,32 +15,38 @@ def caminhar(caminho):
     with open("Computadores.csv", "w", encoding="utf-8") as fd:
         for root, subfolders, files in os.walk(caminho) :
 
-            if old_folder and root != old_folder:
-                fd.write(old_folder + ';' + ';'.join(dados_completos) + '\n')
-                dados_completos = []
-            old_folder = root
-
-            for nome_arquivo in files:
-                if "REUNIÃO" in root or "CELULARES" in root or nome_arquivo.lower() not in arquivos:
+                if "CELULARES" and "REUNIÃO"in root:
                     continue
 
-                # Caminho Arquivo
-                caminho_arquivo = os.path.join(root, nome_arquivo)
-                print(caminho_arquivo)
+                if old_folder and root != old_folder:
+                    fd.write(old_folder + ';' + ';'.join(dados_completos) + '\n')
+                    dados_completos = []
+                old_folder = root
+
+                for nome_arquivo in files:
+
+                    if "REUNIÃO" in root or "CELULARES" in root or nome_arquivo.lower() not in arquivos:
+                        continue
+
+                    caminho_arquivo = os.path.join(root, nome_arquivo)
+                    print(caminho_arquivo)
+
+                        # Verificação se o arquivo existe
+                    if os.path.exists(caminho_arquivo):
 
 
-                # Verificação se o arquivo existe
-                if os.path.exists(caminho_arquivo):
-
-                    dados = extrair_informacoes(caminho_arquivo)
-                    dados_completos.extend(dados)
+                        dados = extrair_informacoes(caminho_arquivo)
+                        dados_completos.extend(dados)
 
                     for dado in dados:
-                        print(dado)
-                    print("-" * 50)
-                else:
-                    pass
+                     print(dado)
+                     print("-" * 50)
+
 
 
 if __name__ == "__main__":
     caminhar(caminho_base)
+
+
+
+
