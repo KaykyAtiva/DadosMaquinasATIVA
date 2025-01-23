@@ -34,9 +34,13 @@ def caminhar(caminho):
                         # Verificação se o arquivo existe
                     if os.path.exists(caminho_arquivo):
 
-
-                        dados = extrair_informacoes(caminho_arquivo)
-                        dados_completos.extend(dados)
+                      #se caminho_arquivo conter .txt se caminhi_arquivo terminar com .png
+                        if ".txt" in caminho_arquivo:
+                            dados = extrair_informacoes(caminho_arquivo)
+                            dados_completos.extend(dados)
+                        if ".png" or ".jpg" in caminho_arquivo:
+                            dados = extrair_informacoes(caminho_arquivo)
+                            dados_completos.extend(dados)
 
                     for dado in dados:
                      print(dado)
